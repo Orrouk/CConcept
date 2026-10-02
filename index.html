@@ -201,7 +201,7 @@
         <div>
           <span class="eyebrow">Le premier pas est ici</span>
           <h2>Parlons de<br>votre page.</h2>
-          <p>Qu’avez-vous à présenter ? Que voulez-vous que le visiteur fasse ? Dites-nous l’essentiel.</p>
+          <p>Laissez-nous vos coordonnées. Vous pouvez ajouter un message si vous souhaitez nous donner quelques précisions.</p>
           <p class="phone">Vous préférez en parler ?<br><a href="tel:+15147819491">1 514-781-9491</a></p>
           <h3>Et après ?</h3>
           <p>Nous vous contacterons pour préciser le projet, les documents disponibles et la prochaine étape.</p>
@@ -218,36 +218,14 @@
             <label>Nom<input name="name" type="text" required autocomplete="name"></label>
             <label>Courriel<input name="email" type="email" required autocomplete="email"></label>
           </div>
-          <div class="field-row">
-            <label>Téléphone<input name="phone" type="tel" autocomplete="tel"></label>
-            <label>Entreprise<input name="company" type="text" autocomplete="organization"></label>
-          </div>
-          <label>Que voulez-vous présenter ?
-            <select name="project_type">
-              <option value="">Choisir une réponse</option>
-              <option>Une entreprise</option>
-              <option>Un service</option>
-              <option>Un produit</option>
-              <option>Un projet</option>
-              <option>Une personne</option>
-              <option>Autre</option>
-            </select>
+          <label>Téléphone<input name="phone" type="tel" required autocomplete="tel"></label>
+          <label>Objet <span aria-hidden="true">(facultatif)</span>
+            <input name="objet" type="text" autocomplete="off" placeholder="Ex. : Ma landing page">
           </label>
-          <label>Quel est l’objectif principal de la page ?
-            <textarea name="goal" rows="5" placeholder="Expliquez-nous l’essentiel."></textarea>
+          <label>Message <span aria-hidden="true">(facultatif)</span>
+            <textarea name="message" rows="6" placeholder="Expliquez-nous ce que vous voulez, si vous le souhaitez."></textarea>
           </label>
-          <div class="field-row">
-            <label>Avez-vous déjà un domaine ?
-              <select name="domain"><option value="">Choisir une réponse</option><option>Oui</option><option>Non</option><option>Je ne sais pas</option></select>
-            </label>
-            <label>Avez-vous un logo ou des images ?
-              <select name="assets"><option value="">Choisir une réponse</option><option>Oui</option><option>Non</option><option>En partie</option></select>
-            </label>
-          </div>
-          <label>Avez-vous des documents qui présentent votre entreprise ou votre offre ?
-            <select name="documents"><option value="">Choisir une réponse</option><option>Oui</option><option>Non</option><option>Quelques-uns</option></select>
-          </label>
-          <button class="button submit" type="submit">Envoyer ma demande</button>
+          <button class="button submit" type="submit">Envoyer</button>
           <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
         </form>
       </div>
