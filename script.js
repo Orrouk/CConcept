@@ -6,28 +6,33 @@
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
 
-    const host = window.location.hostname;
-    const cloudflareReady = host.endsWith('.pages.dev') || host === 'win.conceptcreatif.com';
-
-    if (!cloudflareReady) {
-      status.textContent = "Aperçu : le formulaire sera activé lors du branchement à Cloudflare.";
-      return;
-    }
+    const button = form.querySelector('button[type="submit"]');
+    const data = Object.fromEntries(new FormData(form).entries());
 
     try {
+      if (button) button.disabled = true;
       status.textContent = "Envoi…";
+
       const response = await fetch(form.action, {
         method: 'POST',
-        body: new FormData(form),
-        headers: { 'Accept': 'application/json' }
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
+        body: JSON.stringify(data)
       });
 
-      if (!response.ok) throw new Error('submission_failed');
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok || result.success === false) {
+        throw new Error(result.message || 'submission_failed');
+      }
 
       form.reset();
       status.textContent = "Merci. Votre demande a bien été envoyée.";
     } catch (error) {
-      status.textContent = "Le formulaire n’est pas encore relié au service d’envoi. Vous pouvez appeler au 1 514-781-9491.";
+      status.textContent = "L’envoi n’a pas fonctionné. Vous pouvez appeler au 1 514-781-9491.";
+    } finally {
+      if (button) button.disabled = false;
     }
   });
 
