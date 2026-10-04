@@ -207,7 +207,7 @@
           <p>Nous vous contacterons pour préciser le projet, les documents disponibles et la prochaine étape.</p>
         </div>
 
-        <form id="contact-form" method="post" action="https://formsubmit.co/ajax/fa6316a3383c20ba770da12dc687b753">
+        <form id="contact-form" method="post" action="https://formsubmit.co/ajax/fa6316a3383c20ba770da12dc687b753" enctype="multipart/form-data">
           <input type="hidden" name="_subject" value="Nouvelle demande — Landing page Concept Créatif">
           <input type="hidden" name="_template" value="table">
           <input type="hidden" name="_url" value="https://win.conceptcreatif.com/">
@@ -224,6 +224,10 @@
           </label>
           <label>Message <span aria-hidden="true">(facultatif)</span>
             <textarea name="message" rows="6" placeholder="Expliquez-nous ce que vous voulez, si vous le souhaitez."></textarea>
+          </label>
+          <label>Pièces jointes <span aria-hidden="true">(facultatif)</span>
+            <input name="attachment" type="file" multiple>
+            <small class="file-note">Vous pouvez joindre plusieurs fichiers. Maximum 10 Mo au total.</small>
           </label>
           <button class="button submit" type="submit">Envoyer</button>
           <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
