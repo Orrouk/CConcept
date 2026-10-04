@@ -1,13 +1,16 @@
 :root{
-  --bg:#f8f5ef;
+  --bg:#F8F5ED;
   --paper:#fffdf7;
-  --navy:#203b4b;
-  --navy-2:#18354f;
-  --accent:#c68c51;
-  --accent-2:#d08e4a;
-  --text:#203b4b;
-  --muted:#5d6d76;
-  --line:#e0e0e0;
+  --navy:#2A3E52;
+  --navy-2:#1A2332;
+  --logo-navy:#143447;
+  --accent:#DF743B;
+  --accent-2:#D98C52;
+  --accent-deep:#B85A22;
+  --card-beige:#EFE8D7;
+  --text:#2A3E52;
+  --muted:#5D6D76;
+  --line:#DED8CC;
   --white:#fff;
   --radius:8px;
   --shadow:0 4px 16px rgba(0,0,0,.08);
@@ -28,9 +31,9 @@ p{margin:0 0 1.15rem}
 .skip-link{position:absolute;left:-9999px}
 .skip-link:focus{left:16px;top:16px;z-index:99;background:#fff;padding:10px 14px}
 
-.site-header{position:sticky;top:0;z-index:20;background:rgba(248,245,239,.96);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.site-header{position:sticky;top:0;z-index:20;background:rgba(248,245,237,.96);backdrop-filter:blur(12px);border-bottom:1px solid var(--accent)}
 .nav{min-height:78px;display:flex;align-items:center;gap:28px}
-.brand{display:flex;align-items:center;gap:12px;text-decoration:none;font-weight:700;color:var(--navy)}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none;font-weight:700;color:var(--logo-navy)}
 .brand img{width:48px;height:48px;object-fit:contain;flex:0 0 48px}
 .brand-name{display:inline-block;font-size:1.18rem;font-weight:700;line-height:1;white-space:nowrap}
 .nav nav{display:flex;gap:24px;margin-left:auto}
@@ -43,13 +46,14 @@ p{margin:0 0 1.15rem}
 .button-light{background:#fff;color:var(--navy);box-shadow:none}
 .button-light:hover{background:#f3f3f3}
 
-.hero{background:var(--bg);padding:88px 0 82px}
+.hero{background:var(--bg);padding:88px 0 82px;border-bottom:1px solid rgba(223,116,59,.35)}
 .hero-grid{display:grid;grid-template-columns:1.35fr .65fr;gap:70px;align-items:center}
 .lead{font-size:clamp(1.15rem,1.65vw,1.32rem);max-width:720px;color:#405461;margin:0 0 30px}
-.eyebrow{display:inline-block;text-transform:uppercase;letter-spacing:.07em;font-size:.95rem;font-weight:700;color:var(--accent);margin-bottom:16px}
+.eyebrow{display:inline-block;text-transform:uppercase;letter-spacing:.07em;font-size:.95rem;font-weight:700;color:var(--accent-2);margin-bottom:16px}
 .micro{font-size:.95rem;color:var(--muted);margin-top:15px}
-.pricing-card{background:var(--navy);color:#fff;border-radius:var(--radius);padding:34px;box-shadow:var(--shadow)}
-.pricing-card .price,.pricing-card strong,.pricing-card .pricing-kicker{color:#fff}
+.pricing-card{background:var(--navy);color:#fff;border-radius:var(--radius);padding:34px;box-shadow:var(--shadow);border-top:4px solid var(--accent)}
+.pricing-card .price,.pricing-card strong{color:#fff}
+.pricing-card .pricing-kicker{color:#F3B078}
 .pricing-kicker{display:block;text-transform:uppercase;letter-spacing:.07em;font-size:.9rem;font-weight:700;opacity:.9}
 .price{font-size:3.4rem;font-weight:700;letter-spacing:-.04em;margin:18px 0 8px}
 .price small{font-size:1rem;letter-spacing:0}
@@ -67,13 +71,15 @@ p{margin:0 0 1.15rem}
 .conversion-flow li{background:#fff;padding:20px 12px;text-align:center;font-size:.95rem;font-weight:600}
 
 .split{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:center}
-.panel{background:#fff;border-radius:var(--radius);padding:34px;border:1px solid var(--line);box-shadow:var(--shadow)}
-.panel-kicker{font-weight:700;color:var(--navy);display:block;margin-bottom:14px;font-size:1.1rem}
+.panel{background:var(--card-beige);border-radius:var(--radius);padding:34px;border:1px solid #E0D5C2;box-shadow:var(--shadow)}
+.panel-kicker{font-weight:700;color:var(--accent-deep);display:block;margin-bottom:14px;font-size:1.1rem}
 .chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
-.chips span{background:#fff;border:1px solid var(--line);padding:9px 13px;border-radius:5px;font-size:.95rem;font-weight:600}
+.chips span{background:#fff;border:1px solid rgba(217,140,82,.55);padding:9px 13px;border-radius:5px;font-size:.95rem;font-weight:600}
 
 .use-cases{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
 .use-cases article{border-top:3px solid var(--accent);padding:24px 20px;background:#fff;border-radius:0 0 var(--radius) var(--radius);box-shadow:var(--shadow)}
+.use-cases article:nth-child(2n){border-top-color:var(--accent-2)}
+.use-cases article:nth-child(3n){border-top-color:var(--accent-deep)}
 .use-cases h3{font-size:1.15rem}
 .use-cases p{font-size:1rem;color:#52646e}
 .process .card{background:#fff}
@@ -81,17 +87,17 @@ p{margin:0 0 1.15rem}
 .dark{background:var(--navy-2);color:#e8eef1}
 .dark h2,.dark h3,.dark .price,.dark strong{color:#fff}
 .dark s{opacity:.7}
-.eyebrow-light{color:#d9a56f}
+.eyebrow-light{color:#F0A26E}
 .pricing-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:90px}
 .price-large{font-size:5rem}
 .check-list{list-style:none;padding:0;margin:0}
 .check-list li{position:relative;padding:9px 0 9px 28px;border-bottom:1px solid rgba(255,255,255,.16);font-size:1rem}
-.check-list li:before{content:"✓";position:absolute;left:0;color:#d9a56f;font-weight:800}
+.check-list li:before{content:"✓";position:absolute;left:0;color:var(--accent);font-weight:800}
 .pricing-card .check-list li{border-color:rgba(255,255,255,.16)}
 .compact{margin:22px 0 28px}
 .compact li{font-size:1rem}
 .legal{font-size:.9rem;opacity:.86;margin-top:20px}
-.bar{background:var(--accent);color:#fff}
+.bar{background:linear-gradient(90deg,var(--accent-deep),var(--accent));color:#fff}
 .bar-grid{display:grid;grid-template-columns:1fr 1fr;gap:30px;padding:25px 0}
 .bar p{margin:0;font-size:1rem}
 .bar strong{font-size:1.08rem}
@@ -110,7 +116,7 @@ form{background:var(--bg);border:1px solid var(--line);border-radius:var(--radiu
 .field-row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 label{display:block;font-size:1rem;font-weight:600;color:var(--navy);margin-bottom:17px}
 input,select,textarea{width:100%;margin-top:7px;border:1px solid #c8ced2;background:#fff;border-radius:5px;padding:14px 15px;font:inherit;font-size:1rem;color:var(--text)}
-input:focus,select:focus,textarea:focus{outline:2px solid rgba(198,140,81,.28);border-color:var(--accent)}
+input:focus,select:focus,textarea:focus{outline:2px solid rgba(223,116,59,.24);border-color:var(--accent)}
 textarea{resize:vertical}
 .file-note{display:block;margin-top:8px;font-size:.92rem;font-weight:400;color:var(--muted)}
 .submit{width:100%;margin-top:8px;font-size:1.05rem;padding:17px 30px}
@@ -164,3 +170,12 @@ textarea{resize:vertical}
   .footer-brand img{display:block;width:42px;height:42px;flex-basis:42px}
   .footer-brand .brand-name{display:inline-block;font-size:1rem}
 }
+
+/* Palette Concept Créatif : accents différenciés */
+.section-intro .eyebrow{color:var(--accent-2)}
+.card:nth-child(3n+1) .number{color:var(--accent)}
+.card:nth-child(3n+2) .number{color:var(--accent-2)}
+.card:nth-child(3n) .number{color:var(--accent-deep)}
+.conversion-flow{border-top:2px solid var(--accent)}
+.faq details[open] summary{color:var(--accent-deep)}
+.form-section h3{color:var(--accent-deep)}
