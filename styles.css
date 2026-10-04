@@ -158,9 +158,9 @@ textarea{resize:vertical}
   .use-cases,.conversion-flow,.field-row,.bar-grid,.footer-grid{grid-template-columns:1fr}
   .conversion-flow li{text-align:left}
   .pricing-card,form{padding:24px}
-  .card{padding:32px 24px 28px}
-  .number{top:16px;right:18px;font-size:4.35rem;opacity:.13}
-  .card h3{max-width:78%}
+  .card{padding:38px 24px 30px;min-height:250px}
+  .number{top:14px;right:10px;font-size:6.4rem;line-height:.8;opacity:.20;letter-spacing:-.08em}
+  .card h3{max-width:72%;padding-top:6px}
   .price-large{font-size:4rem}
   .eyebrow{font-size:.95rem}
   .pricing-kicker{font-size:.9rem}
