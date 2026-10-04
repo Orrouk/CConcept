@@ -7,7 +7,15 @@
     event.preventDefault();
 
     const button = form.querySelector('button[type="submit"]');
-    const data = Object.fromEntries(new FormData(form).entries());
+    const data = new FormData(form);
+    const attachments = [...form.querySelectorAll('input[type="file"]')]
+      .flatMap((input) => [...input.files]);
+    const totalAttachmentSize = attachments.reduce((total, file) => total + file.size, 0);
+
+    if (totalAttachmentSize > 10 * 1024 * 1024) {
+      status.textContent = "Les pièces jointes ne doivent pas dépasser 10 Mo au total.";
+      return;
+    }
 
     try {
       if (button) button.disabled = true;
@@ -16,14 +24,13 @@
       const response = await fetch(form.action, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
           'Accept': 'application/json'
         },
-        body: JSON.stringify(data)
+        body: data
       });
 
       const result = await response.json().catch(() => ({}));
-      if (!response.ok || result.success === false) {
+      if (!response.ok || result.success === false || result.success === 'false') {
         throw new Error(result.message || 'submission_failed');
       }
 
