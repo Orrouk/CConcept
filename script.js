@@ -12,8 +12,8 @@
       .flatMap((input) => [...input.files]);
     const totalAttachmentSize = attachments.reduce((total, file) => total + file.size, 0);
 
-    if (totalAttachmentSize > 10 * 1024 * 1024) {
-      status.textContent = "Les pièces jointes ne doivent pas dépasser 10 Mo au total.";
+    if (totalAttachmentSize > 1 * 1024 * 1024) {
+      status.textContent = "Les pièces jointes ne doivent pas dépasser 1 Mo au total.";
       return;
     }
 
