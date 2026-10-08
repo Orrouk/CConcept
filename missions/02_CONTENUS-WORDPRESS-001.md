@@ -16,3 +16,11 @@ Le texte cite https://win.conceptcreatif.com/ et présente le passage de la PV �
 
 ## Sortie
 Lien WordPress publié + vérification du rendu public + courte note de delta.
+
+## Revue de statut fonctionnel — 8 octobre 2026
+
+- **CONFIRMÉ PAR LECTURE PUBLIQUE** : l'accueil présente la section « Rédaction stratégique et proposition de valeur », avec des liens vers l'article et le démonstrateur Win; l'article est publié et renvoie vers Win et le site mère.
+- **CONFIRMÉ PAR CONTENU** : l'accueil conserve la section IA/mémoire distincte, et l'article présente l'audit IA/agentique comme mandat séparé.
+- **À NE PAS CONFONDRE AVEC UN TEST MOBILE VISUEL** : la lecture publique confirme une balise viewport sur le site mère, mais aucune capture mobile d'émulation n'a été produite.
+- **NON REVÉRIFIÉ DANS CETTE REVUE** : l'éditeur WordPress d'origine (la page publique ne prouve pas la structure interne de l'éditeur).
+- Le statut de publication reste **TERMINÉ**; les limites de preuve ci-dessus ne doivent pas être déclarées comme des échecs fonctionnels.
