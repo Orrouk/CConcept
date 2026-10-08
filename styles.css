@@ -228,3 +228,27 @@ textarea{resize:vertical}
   .section-intro{margin-bottom:28px}
   .response-card{padding:29px 23px}
 }
+
+
+/* Bandeau de consentement, indépendant des demandes commerciales. */
+.ad-consent-panel[hidden]{display:none!important}
+.ad-consent-panel{
+  position:fixed;z-index:1000;bottom:18px;left:50%;transform:translateX(-50%);
+  width:min(900px,calc(100% - 28px));background:var(--paper);color:var(--navy);
+  box-shadow:0 14px 45px rgba(16,42,67,.23);border:1px solid var(--line);
+  border-left:4px solid var(--accent);border-radius:10px;padding:18px 20px;
+  display:flex;align-items:center;justify-content:space-between;gap:22px
+}
+.ad-consent-copy{flex:1}
+.ad-consent-copy strong{font-size:.95rem}
+.ad-consent-copy p{font-size:.88rem;line-height:1.45;margin:5px 0 0;color:var(--muted)}
+.ad-consent-actions{display:flex;align-items:center;gap:9px;flex-shrink:0}
+.ad-consent-actions button{border-radius:5px;border:1px solid var(--navy);padding:10px 14px;font:inherit;font-size:.88rem;font-weight:700;cursor:pointer}
+.ad-consent-reject{background:transparent;color:var(--navy)}
+.ad-consent-accept{background:var(--navy);color:#fff}
+.ad-consent-actions button:focus-visible,.privacy-settings:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.privacy-settings{background:none;color:inherit;text-decoration:underline;text-underline-offset:3px;border:0;font:inherit;cursor:pointer;padding:0}
+@media (max-width:640px){
+  .ad-consent-panel{bottom:10px;flex-direction:column;align-items:stretch;gap:14px;padding:17px}
+  .ad-consent-actions button{flex:1}
+}
