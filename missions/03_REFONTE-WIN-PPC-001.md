@@ -1,6 +1,6 @@
 # MISSION 03 — WIN : PROPOSITION DE VALEUR, TARIF ET FAQ
 
-Statut : VERSION PUBLIQUE VÉRIFIÉE; QA formulaire à compléter.
+Statut : VERSION PUBLIQUE ET QA FONCTIONNELLE NON DESTRUCTIVE VÉRIFIÉES (8 octobre 2026).
 
 ## Dépôt et domaine
 Orrouk/CConcept, branche main, fichier CNAME = win.conceptcreatif.com.
@@ -18,5 +18,14 @@ Le 8 octobre 2026, index.html et README.md ont été mis à jour.
 ## Blocage constaté
 Le contrôle initial voyait 399 $ pendant la propagation. Un contrôle direct ultérieur a confirmé 798 $, la FAQ ChatGPT Ads et l'absence de 399 $. GitHub Pages rapporte un déploiement réussi. Aucun DNS modifié.
 
+## QA fonctionnelle — 8 octobre 2026
+- Version live de Win accessible; `script.js` et `styles.css` servis publiquement.
+- Tous les liens internes `#contenu`, `#offre`, `#processus`, `#questions` et `#demande` correspondent à des cibles présentes.
+- Le calendrier public « La demi-heure essentielle » s'ouvre et présente des créneaux; aucune réservation n'a été créée.
+- Le formulaire live contient les champs requis nom, courriel et entreprise/projet. Il pointe vers FormSubmit en AJAX. Aucun faux contact n'a été envoyé, conformément au livrable.
+- `script.js` gère les événements `cta-landing-page`, `diagnostic-booking`, `lead-form-start` et `lead-form-submit`; le script Umami public est accessible.
+- Le responsive est vérifié structurellement : balise viewport active, rupture à 980 px, rupture mobile à 640 px, empilement des grilles principales et des champs sur mobile. Aucun contrôle visuel automatisé par émulation n'a été produit.
+- Les liens PPC/ChatGPT Ads et audit IA/mémoire renvoient au site mère et demeurent des mandats distincts. La proposition de valeur reste le socle réutilisable; la mémoire agentique demeure une suite séparée.
+
 ## Livrable
-URL live avec nouveau texte vérifié, README synchronisé et retour de test formulaire (sans envoi réel d'un contact fictif).
+URL live avec nouveau texte vérifié, README synchronisé et retour de test formulaire sans envoi réel d'un contact fictif.
