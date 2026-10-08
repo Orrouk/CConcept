@@ -1,6 +1,8 @@
-# Concept Créatif — Landing page 399 $
+# Concept Créatif — Proposition de valeur et page Web stratégique (798 $ CAD)
 
-Version statique de la landing page publique de Concept Créatif, préparée pour GitHub + Cloudflare Pages.
+Démonstrateur canonique : https://win.conceptcreatif.com/ . L'offre comprend la clarification et la rédaction de la proposition de valeur, sa traduction en page Web autonome et une ronde de corrections. Prix de référence : 798 $ CAD. Les campagnes PPC (dont ChatGPT Ads), le référencement IA et l'audit agentique sont des mandats distincts orientés vers https://conceptcreatif.com/ .
+
+La valeur principale est la rédaction stratégique; HTML, design et hébergement sont les moyens de livraison. Ne pas modifier les DNS ou l'hébergement sans validation de la chaîne de publication.
 
 ## Fichiers
 
