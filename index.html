@@ -11,8 +11,18 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20261008-4q">
+  <link rel="stylesheet" href="styles.css?v=20261008-pixel">
   <script defer src="https://cloud.umami.is/script.js" data-website-id="819c2a18-0ef5-41dd-aaf0-baea105ebce5"></script>
+  <!-- OpenAI Ads Pixel : consentement enregistré avant l'initialisation. -->
+  <script>
+    !function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");
+    (function () {
+      var consent = false;
+      try { consent = window.localStorage.getItem("cc-openai-ads-consent") === "accepted"; } catch (e) {}
+      oaiq("consent", consent);
+      oaiq("init", { pixelId: "PUnvoDQ3LnrbP7L4SfuUXe" });
+    })();
+  </script>
 </head>
 <body>
   <a class="skip-link" href="#contenu">Aller au contenu</a>
@@ -199,10 +209,20 @@
         <span class="brand-name">Concept Créatif</span>
       </div>
       <p>Proposition de valeur, rédaction stratégique et page Web.</p>
-      <p><a href="https://conceptcreatif.com/" target="_blank" rel="noopener">ConceptCréatif.com ↗</a></p>
+      <p><a href="https://conceptcreatif.com/" target="_blank" rel="noopener">ConceptCréatif.com ↗</a> · <button type="button" class="privacy-settings" id="ad-consent-settings">Mesure publicitaire</button></p>
     </div>
   </footer>
 
-  <script src="script.js"></script>
+  <aside class="ad-consent-panel" id="ad-consent-panel" aria-label="Mesure publicitaire" hidden>
+    <div class="ad-consent-copy">
+      <strong>Mesure des publicités</strong>
+      <p>Avec votre accord, nous mesurons les visites et les demandes liées à nos publicités. Le refus ne change rien à l'utilisation du site.</p>
+    </div>
+    <div class="ad-consent-actions">
+      <button type="button" class="ad-consent-reject" id="ad-consent-reject">Refuser</button>
+      <button type="button" class="ad-consent-accept" id="ad-consent-accept">Accepter</button>
+    </div>
+  </aside>
+  <script src="script.js?v=20261008-pixel"></script>
 </body>
 </html>
