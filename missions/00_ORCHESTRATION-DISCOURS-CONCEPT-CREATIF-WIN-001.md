@@ -41,3 +41,11 @@ La proposition de valeur (PV) est produite en premier parce qu'elle sert de socl
 La PV fixe la promesse, le destinataire, la différence, les arguments, les preuves et les choix de voix. Combinée à une mémoire agentique qui rassemble les sources, les décisions, les formulations validées et les versions, elle permet aux humains et aux agents de maîtriser la cohérence du ton et du discours sur les différents canaux, avec contrôle humain.
 
 Consigne pour tout prochain agent : ne jamais réduire le mandat initial à une simple création de landing page. Faire de la PV le noyau de la stratégie de communication et prévoir sa réutilisation dans la mémoire agentique, sans inclure l'audit ni la mémoire dans le forfait Web initial.
+
+## Revue ciblée des contrôles encore ouverts — 8 octobre 2026
+
+- Statut conservé : les contrôles fonctionnels **non destructifs** déjà consignés comme vérifiés ne sont pas réexécutés.
+- Revérifié sur les URL publiques : l'accueil `https://conceptcreatif.com/` et l'article `https://conceptcreatif.com/proposition-de-valeur-avant-site-web/` sont lisibles; leurs liens vers `https://win.conceptcreatif.com/` sont présents. Les discours distinguent bien la PV, sa livraison Web et la mémoire agentique comme suite séparée.
+- Contrôle visuel en émulation mobile de Win : **OUVERT — NON VÉRIFIÉ**. L'outil de lecture publique n'a pas pu extraire Win (`invalid_url`), et le navigateur d'automatisation n'a pas démarré (crédit insuffisant). Ce défaut d'accès des outils ne prouve ni une panne du domaine ni un succès visuel.
+- Réception réelle du formulaire : **HORS PÉRIMÈTRE**, conformément au critère de fin; aucun contact fictif, rendez-vous ni POST n'a été créé.
+- Aucun changement DNS, Cloudflare, site public ou contenu commercial. Le résultat fonctionnel déjà vérifié reste distinct du contrôle visuel encore ouvert.
