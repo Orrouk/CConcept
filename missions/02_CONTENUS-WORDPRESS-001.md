@@ -1,6 +1,6 @@
 # MISSION 02 — WORDPRESS ET SITE MÈRE
 
-Statut : ARTICLE PUBLIÉ; INTÉGRATION DE L'OFFRE À L'ACCUEIL EN COURS.
+Statut : ARTICLE ET SECTION D'ACCUEIL PUBLIÉS ET VÉRIFIÉS.
 
 ## Réalisé
 Article « Avant de bâtir votre site Web, écrivez votre proposition de valeur » publié :
