@@ -1,6 +1,6 @@
 # MISSION 04 — CONTRÔLE CROISÉ, PROVENANCE ET PUBLICATION
 
-Statut : À EXÉCUTER APRÈS PROPAGATION/DÉPLOIEMENT.
+Statut : QA ÉDITORIALE VÉRIFIÉE; tests fonctionnels formulaire, responsive et parcours restants.
 
 ## Contrôle
 1. Vérifier https://conceptcreatif.com/ et https://win.conceptcreatif.com/ en accès direct après publication, pas seulement le dépôt.
