@@ -1,6 +1,6 @@
 # MISSION — ORCHESTRATION-DISCOURS-CONCEPT-CREATIF-WIN-001
 
-Statut : DÉPLOIEMENT VÉRIFIÉ — QA fonctionnelle à compléter (8 octobre 2026)
+Statut : DÉPLOIEMENT ET QA FONCTIONNELLE NON DESTRUCTIVE VÉRIFIÉS (8 octobre 2026)
 Responsable : intégrateur éditorial/technique
 Portée : conceptcreatif.com (WordPress), win.conceptcreatif.com (démonstrateur GitHub), voûte Concept_Creatif_Obsidian.
 
@@ -25,11 +25,14 @@ La valeur achetée est d'abord une performance intellectuelle de rédaction et d
 - Dépôt Orrouk/CConcept : index.html et README.md modifiés pour 798 $, expliciter la PV et la FAQ PPC.
 - Après le déploiement GitHub Pages réussi, contrôle direct de Win : 798 $, aucun 399 $, FAQ ChatGPT Ads visible. L'accueil WordPress comporte également la nouvelle section rédaction stratégique.
 - Domaine canonique dans CNAME : win.conceptcreatif.com.
+- Parcours fonctionnels vérifiés sans action destructive : navigation Win, liens site mère/article/Win, calendrier, formulaire en configuration, chargeur Umami et événements, structure responsive publiée.
+- Aucun faux contact envoyé et aucune réservation de test créée.
+- README corrigé pour refléter le formulaire FormSubmit réellement publié.
 - Pas d'intervention DNS ni Cloudflare autorisée par ce mandat.
 - Ne pas inventer de conversions, d'avis client ou de mesures de performance.
 
 ## Critère de fin
-Les deux sites racontent la même démarche, les prix et inclusions sont cohérents entre public, dépôt et voûte, les FAQ renvoient au site principal pour le PPC et l'agentique, le formulaire reste utilisable, et toutes les pages ont été contrôlées après publication. La version live est confirmée; seule la QA fonctionnelle et le contrôle des parcours complets restent à terminer.
+Les deux sites racontent la même démarche, les prix et inclusions sont cohérents entre public, dépôt et voûte, les FAQ renvoient au site principal pour le PPC et l'agentique, le formulaire reste utilisable, et toutes les pages ont été contrôlées après publication. La version live et les parcours fonctionnels non destructifs sont confirmés. Le test de réception réelle du formulaire reste volontairement hors QA tant qu'aucune demande authentique ou adresse de test explicitement prévue n'est utilisée.
 
 ## Précision de doctrine — PV et mémoire agentique (8 octobre 2026)
 
