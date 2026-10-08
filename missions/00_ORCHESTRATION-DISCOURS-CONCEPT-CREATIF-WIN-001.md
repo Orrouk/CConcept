@@ -30,3 +30,11 @@ La valeur achetée est d'abord une performance intellectuelle de rédaction et d
 
 ## Critère de fin
 Les deux sites racontent la même démarche, les prix et inclusions sont cohérents entre public, dépôt et voûte, les FAQ renvoient au site principal pour le PPC et l'agentique, le formulaire reste utilisable, et toutes les pages ont été contrôlées après publication. La version live est confirmée; seule la QA fonctionnelle et le contrôle des parcours complets restent à terminer.
+
+## Précision de doctrine — PV et mémoire agentique (8 octobre 2026)
+
+La proposition de valeur (PV) est produite en premier parce qu'elle sert de socle réutilisable : on peut ensuite rédiger plus facilement un plan d'affaires, une publicité, des argumentaires, des courriels, des pages Web et des discours. Elle ne constitue pas un plan d'affaires complet. La page Web est une première matérialisation de la PV, pas sa seule destination.
+
+La PV fixe la promesse, le destinataire, la différence, les arguments, les preuves et les choix de voix. Combinée à une mémoire agentique qui rassemble les sources, les décisions, les formulations validées et les versions, elle permet aux humains et aux agents de maîtriser la cohérence du ton et du discours sur les différents canaux, avec contrôle humain.
+
+Consigne pour tout prochain agent : ne jamais réduire le mandat initial à une simple création de landing page. Faire de la PV le noyau de la stratégie de communication et prévoir sa réutilisation dans la mémoire agentique, sans inclure l'audit ni la mémoire dans le forfait Web initial.
