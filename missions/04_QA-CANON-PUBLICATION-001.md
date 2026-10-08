@@ -28,3 +28,11 @@ Statut : QA ÉDITORIALE ET QA FONCTIONNELLE NON DESTRUCTIVE VÉRIFIÉES (8 octob
 
 ## Livrable
 Compte-rendu factuel consigné ci-dessus. Aucun DNS, MX/SPF/DKIM ni service de messagerie modifié.
+
+## Complément de statut — revue ciblée du 8 octobre 2026
+
+- **CONFIRMÉ SUR SITE PUBLIC** : accueil `conceptcreatif.com` et article de proposition de valeur accessibles; liens vers Win présents. La doctrine publique présente la PV comme un socle stratégique réutilisable; l'audit/mémoire agentique est une prestation ultérieure distincte.
+- **DÉJÀ VÉRIFIÉ, NON RELANCÉ** : ancres, champs requis, câblage FormSubmit, calendrier, événements Umami et responsive CSS structurel, selon les résultats fonctionnels antérieurs ci-dessus.
+- **OUVERT — preuve non obtenue** : émulation visuelle mobile de `win.conceptcreatif.com`. La lecture publique automatisée a retourné `invalid_url`; le navigateur visuel n'a pas démarré faute de crédit. Ne pas interpréter ces limites d'outil comme une panne du site.
+- **EXCLU** : soumission d'un faux formulaire ou création d'une réservation de test. Le test de réception authentique reste soumis aux conditions de la mission.
+- **AUCUN CHANGEMENT** : DNS, Cloudflare, messagerie, campagnes et publication.
