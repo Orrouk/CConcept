@@ -184,3 +184,47 @@ textarea{resize:vertical}
 .conversion-flow{border-top:2px solid var(--accent)}
 .faq details[open] summary{color:var(--accent-deep)}
 .form-section h3{color:var(--accent-deep)}
+
+
+/* Page revue : quatre questions d'acheteurs, hiérarchie éditoriale et conversion */
+:root{
+  --bg:#FFF9EE;
+  --navy:#102A43;
+  --navy-2:#102A43;
+  --accent:#F2792F;
+  --accent-deep:#BD5822;
+}
+.hero h1{max-width:790px;font-size:clamp(2.7rem,4.8vw,4.2rem)}
+.hero .lead{max-width:710px;line-height:1.64}
+.hero-actions{display:flex;align-items:center;gap:22px;flex-wrap:wrap}
+.text-link{color:var(--navy);font-weight:700;text-decoration-thickness:2px;text-underline-offset:5px}
+.text-link:hover{color:var(--accent-deep)}
+.pricing-card p{font-size:1.08rem;line-height:1.52}
+.response-section{background:var(--paper)}
+.response-section .section-intro{max-width:900px}
+.response-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.response-card{padding:38px 36px 34px;border:1px solid var(--line);border-top:4px solid var(--accent);border-radius:var(--radius);background:#fff;box-shadow:0 5px 20px rgba(16,42,67,.045)}
+.response-card:nth-child(2n){border-top-color:var(--navy);background:#F8F5EE}
+.response-number{display:block;font-size:.82rem;letter-spacing:.09em;text-transform:uppercase;font-weight:800;color:var(--accent-deep);margin-bottom:23px}
+.response-card h3{font-size:clamp(1.35rem,2vw,1.75rem);line-height:1.25;margin-bottom:18px}
+.response-card p{color:#435766;line-height:1.66;margin:0}
+.section .section-intro p{max-width:760px}
+.process .card{min-height:245px}
+.process .card h3{max-width:90%}
+.dark .micro{color:#DAE4EA}
+.dark .legal a{color:#fff;text-decoration-thickness:2px;text-underline-offset:3px}
+.dark .price-large{margin:26px 0}
+.form-aside{font-size:.95rem;color:var(--muted);max-width:430px}
+:target{scroll-margin-top:105px}
+@media (max-width:800px){
+  .response-grid{grid-template-columns:1fr}
+  .response-card{padding:30px 27px}
+}
+@media (max-width:640px){
+  .hero-actions{align-items:stretch;flex-direction:column;gap:16px}
+  .hero-actions .button{width:100%}
+  .response-card h3{font-size:1.4rem}
+  .pricing-grid{gap:28px}
+  .section-intro{margin-bottom:28px}
+  .response-card{padding:29px 23px}
+}
