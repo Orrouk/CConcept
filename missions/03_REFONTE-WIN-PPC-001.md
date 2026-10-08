@@ -1,6 +1,6 @@
 # MISSION 03 — WIN : PROPOSITION DE VALEUR, TARIF ET FAQ
 
-Statut : CODE MODIFIÉ; PUBLICATION NON CONFIRMÉE.
+Statut : VERSION PUBLIQUE VÉRIFIÉE; QA formulaire à compléter.
 
 ## Dépôt et domaine
 Orrouk/CConcept, branche main, fichier CNAME = win.conceptcreatif.com.
@@ -16,7 +16,7 @@ Le 8 octobre 2026, index.html et README.md ont été mis à jour.
 - Vérifier et corriger toute référence active à Win2, à 399 $, à une réduction de 50 %, ou à « gratuit à vie » non conditionnée.
 
 ## Blocage constaté
-Après le commit, un contrôle direct de https://win.conceptcreatif.com/ voyait encore l'ancienne version avec 399 $. Diagnostiquer où pointe réellement la production, distinguer cache et autre source de publication, puis résoudre sans intervention DNS non autorisée.
+Le contrôle initial voyait 399 $ pendant la propagation. Un contrôle direct ultérieur a confirmé 798 $, la FAQ ChatGPT Ads et l'absence de 399 $. GitHub Pages rapporte un déploiement réussi. Aucun DNS modifié.
 
 ## Livrable
 URL live avec nouveau texte vérifié, README synchronisé et retour de test formulaire (sans envoi réel d'un contact fictif).
