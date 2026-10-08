@@ -1,6 +1,6 @@
 # MISSION 01 — AUDIT DES SOURCES, DES PRIX ET DU DISCOURS
 
-Statut : TERMINÉ POUR LE CADRAGE; SYNCHRONISATION DOCUMENTAIRE À FINIR.
+Statut : TERMINÉ — cadrage et synchronisation des principales sources canoniques.
 
 ## Sources à lire
 - PROPOSITION-DE-VALEUR-CANONIQUE.md (2 octobre 2026).
