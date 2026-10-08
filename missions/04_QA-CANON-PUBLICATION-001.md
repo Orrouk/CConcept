@@ -1,6 +1,6 @@
 # MISSION 04 — CONTRÔLE CROISÉ, PROVENANCE ET PUBLICATION
 
-Statut : QA ÉDITORIALE VÉRIFIÉE; tests fonctionnels formulaire, responsive et parcours restants.
+Statut : QA ÉDITORIALE ET QA FONCTIONNELLE NON DESTRUCTIVE VÉRIFIÉES (8 octobre 2026).
 
 ## Contrôle
 1. Vérifier https://conceptcreatif.com/ et https://win.conceptcreatif.com/ en accès direct après publication, pas seulement le dépôt.
@@ -11,5 +11,20 @@ Statut : QA ÉDITORIALE VÉRIFIÉE; tests fonctionnels formulaire, responsive et
 6. Vérifier la cohérence des URL : Win canonique, Win2 hérité; signaler au lieu de modifier DNS et services de messagerie.
 7. Synchroniser les décisions dans la voûte Concept Créatif, la carte de l'offre et les MOC concernées.
 
+## Résultats fonctionnels — 8 octobre 2026
+- Réussi : accueil Concept Créatif, article « Avant de bâtir votre site Web, écrivez votre proposition de valeur » et Win accessibles après publication.
+- Réussi : l'accueil du site mère renvoie vers Win et vers l'article; l'article renvoie vers Win; Win renvoie vers Concept Créatif et vers le calendrier.
+- Réussi : le calendrier public s'ouvre sur « La demi-heure essentielle » et affiche des créneaux. Aucune réservation de test n'a été créée.
+- Réussi : tous les ancres internes de Win ont une cible existante.
+- Réussi : formulaire visible, champs requis présents, cible FormSubmit AJAX active dans le HTML et gestion d'état/erreur présente dans `script.js`. Aucun POST fictif n'a été effectué.
+- Réussi : chargeur Umami présent, script public accessible, événements CTA/calendrier/formulaire câblés.
+- Réussi structurellement : viewport mobile actif; règles responsive à 980 px et 640 px; grilles principales et champs passent en une colonne aux seuils prévus.
+- Réussi : les parcours PPC/ChatGPT Ads et audit IA/mémoire demeurent distincts et renvoient au site mère.
+- Doctrine respectée dans le contrôle : la PV est le socle de communication réutilisable et la page Web sa première matérialisation; l'audit et la mémoire agentique ne sont pas inclus dans le forfait Web initial.
+- Correction appliquée : README mis à jour pour documenter le formulaire FormSubmit réel au lieu de l'ancien `/api/contact`.
+- Non exécuté par principe : envoi réel d'un faux contact.
+- Limite de preuve : aucun screenshot d'émulation responsive automatisée n'a été produit; la validation responsive repose sur le rendu public accessible, la balise viewport et les règles CSS effectivement publiées.
+- Intervention humaine requise : aucune pour les parcours vérifiés. Un test réel de réception du formulaire ne doit être fait qu'avec une demande authentique ou une adresse explicitement prévue à cet effet.
+
 ## Livrable
-Un compte-rendu factuel : réussi, écart constaté, correction appliquée, écart non résolu et intervention humaine réellement requise. Interdire toute déclaration de succès non vérifié.
+Compte-rendu factuel consigné ci-dessus. Aucun DNS, MX/SPF/DKIM ni service de messagerie modifié.
