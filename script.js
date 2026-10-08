@@ -13,6 +13,47 @@
     link.addEventListener('click', () => track('diagnostic-booking'));
   });
 
+  // Le Pixel OpenAI ne mesure rien sans un accord enregistré.
+  const consentKey = 'cc-openai-ads-consent';
+  const consentPanel = document.getElementById('ad-consent-panel');
+  const acceptButton = document.getElementById('ad-consent-accept');
+  const rejectButton = document.getElementById('ad-consent-reject');
+  const settingsButton = document.getElementById('ad-consent-settings');
+
+  const readAdsConsent = () => {
+    try { return window.localStorage.getItem(consentKey); }
+    catch (_) { return null; }
+  };
+
+  const recordPageView = () => {
+    if (typeof window.oaiq === 'function') {
+      window.oaiq('measure', 'page_viewed', {
+        type: 'contents',
+        contents: [{ id: 'win-home', name: 'Offre Win Concept Créatif', content_type: 'page' }]
+      });
+    }
+  };
+
+  const setAdsConsent = (accepted) => {
+    if (typeof window.oaiq === 'function') window.oaiq('consent', accepted);
+    try { window.localStorage.setItem(consentKey, accepted ? 'accepted' : 'rejected'); }
+    catch (_) {}
+    if (consentPanel) consentPanel.hidden = true;
+    if (accepted) recordPageView();
+  };
+
+  if (consentPanel) consentPanel.hidden = readAdsConsent() !== null;
+  if (readAdsConsent() === 'accepted') recordPageView();
+
+  if (acceptButton) acceptButton.addEventListener('click', () => setAdsConsent(true));
+  if (rejectButton) rejectButton.addEventListener('click', () => setAdsConsent(false));
+  if (settingsButton) settingsButton.addEventListener('click', () => {
+    if (consentPanel) {
+      consentPanel.hidden = false;
+      if (rejectButton) rejectButton.focus();
+    }
+  });
+
   const form = document.getElementById('contact-form');
   const status = document.getElementById('form-status');
 
@@ -51,6 +92,10 @@
         }
 
         track('lead-form-submit');
+        // Compter un prospect seulement si FormSubmit confirme l'envoi.
+        if (readAdsConsent() === 'accepted' && typeof window.oaiq === 'function') {
+          window.oaiq('measure', 'lead_created', { type: 'customer_action' });
+        }
         form.reset();
         status.textContent = "Merci. Votre demande a bien été envoyée.";
       } catch (error) {
