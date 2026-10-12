@@ -3,7 +3,7 @@ contract_id: CONTRAT-OPERATIONNEL-PO-CONCEPT-CREATIF-001
 owner_agent: AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001
 project: Concept Créatif B2B
 date: 2026-10-12
-status: PRET_A_APPROUVER_NON_ACTIVE
+status: ACTIF_A_LA_DEMANDE
 mode_cible: OPERATIONNEL_A_LA_DEMANDE
 schedule: none
 scope: internal-preparation-and-authorized-execution
@@ -11,7 +11,7 @@ scope: internal-preparation-and-authorized-execution
 # Contrat opérationnel — Product Owner Concept Créatif
 
 ## Décision de conception
-On passe du rôle « observer et recommander » à un **rôle qui pilote l'exécution de lots finis**. Le présent document prépare ce passage mais **ne l'active pas** : le statut effectif de l'agent principal reste PILOTE tant que Patrick n'a pas autorisé le premier mandat opérationnel. La création d'un contrat dans GitHub ne démarre aucun processus, agent, worker, cron ou flux n8n.
+On passe du rôle « observer et recommander » à un **rôle qui pilote l'exécution de lots finis**. **Activation confirmée le 12 octobre 2026 :** Patrick a autorisé le mode opérationnel à la demande pour préparer le premier lot publicitaire, limité aux lectures, analyses, propositions, documents de travail internes et contrôles. Les modifications des annonces, publications, dépenses et déploiements restent explicitement hors mandat. La création d'un contrat dans GitHub ne démarre aucun processus, agent, worker, cron ou flux n8n.
 
 ## Références maîtresses
 - Casquette : `IPCRA/2_CAPS/01_CASQUETTES/CAP-ENTREPRENEUR-CONCEPT-CREATIF.md`.
