@@ -17,7 +17,7 @@ On passe du rôle « observer et recommander » à un **rôle qui pilote l'exéc
 - Casquette : `IPCRA/2_CAPS/01_CASQUETTES/CAP-ENTREPRENEUR-CONCEPT-CREATIF.md`.
 - Backlog : `IPCRA/0_INBOX/BACKLOG — Concept Créatif — Point système — 2026-10-12` (Drive ID `1e3PSJKvAgkz6-9MyRt8Jm15BkVtxoXjILj1DUQmsiaw`).
 - Branche de travail : `po-concept-creatif-pilot`, **non présumée fusionnée avec `main`**.
-- Site commercial maître : https://conceptcreatif.com/ ; démonstrateur : https://win.conceptcreatif.com/ ; `win2.conceptcreatif.com` abandonné.
+- Site institutionnel et vitrine des services : https://conceptcreatif.com/ . L'offre promotionnelle à 399 $ est **déjà présentée et achevée sur https://win.conceptcreatif.com/** selon Patrick; Win n'est pas un brouillon à réécrire. `win2.conceptcreatif.com` est abandonné. Une diffusion complémentaire sur le site principal n'est pas une condition de complétude de Win.
 - Offre principale : clarification/rédaction de proposition de valeur + page Web; promotion actuelle **399 $ CAD**, prix de référence **798 $ CAD**; aucun terme de fin inventé.
 - Autres lignes de services distinctes : audit IA, service PPC / ChatGPT Ads pour les clients, visibilité IA / GEO. L'achat de trafic Ads de Concept Créatif est un projet d'acquisition **interne**, pas le service PPC vendable.
 - Le backlog, les fichiers source et les décisions canoniques de la voûte prévalent sur les anciennes hypothèses contenues dans le README ou les missions.
@@ -52,4 +52,4 @@ Ne pas demander d'approbation pour chaque phrase ou mouvement documentaire inter
 Un lot est TERMINÉ quand les livrables annoncés existent, sont accessibles, vérifiés, reliés à leurs sources et les statuts du backlog sont actualisés. La production d'un simple plan n'est pas la clôture d'une mission d'intégration; un brouillon ne vaut pas une page publiée; un compte Ads créé ne vaut pas une campagne active.
 
 ## Premier mandat proposé
-Voir `missions/MISSION-LOT-01-COMMERCIALISATION-CONCEPT-CREATIF-001.md`. Statut initial : PRÊT POUR VALIDATION D'ACTIVATION, non exécuté. Le Product Owner ne peut entreprendre ce lot par la simple existence du présent fichier.
+Voir `missions/MISSION-LOT-01-COMMERCIALISATION-CONCEPT-CREATIF-001.md` (révisée après retour de Patrick). L'ancien objectif de refaire la présentation à 399 $ est annulé. Le candidat actuel traite la préparation du remplacement des visuels de deux publicités internes existantes, sans aucune modification Ads avant approbation. **Le premier lot reste à confirmer à l'activation**, aucun travail n'est exécuté par la simple existence du présent fichier.
