@@ -91,3 +91,9 @@ Signaler explicitement à Patrick seulement lorsqu'une décision change :
 - une action externe irréversible ou engageante.
 
 Sinon, consigner l'écart dans le backlog.
+
+## Rattachement CAPS / Scrum — 12 octobre 2026
+
+Casquette responsable : **Entrepreneur — Concept Créatif**, document maître `IPCRA/2_CAPS/01_CASQUETTES/CAP-ENTREPRENEUR-CONCEPT-CREATIF.md`. Règle technique : `IPCRA/4_TOOLS/00_GOUVERNANCE_IPCRA/GOUVERNANCE-CASQUETTES-SCRUM-IPCRA-2026-10-12.md`.
+
+Concept Créatif, comme activité d'entreprise, est une responsabilité durable et non un projet à fin indéfinie. Le Product Owner gère les **projets finis** (offre proposition de valeur à 399 $ en promotion, acquisition Ads, création d'une offre de PPC clients, visibilité IA / GEO, conversion du site, etc.) et remonte au besoin les obligations de la casquette qui ne relèvent d'aucun chantier. Il conserve l'autorité de Patrick et ne prend aucune action externe sans mandat. Le backlog courant reste le point système dans `IPCRA/0_INBOX`, sans duplication des documents sources.
