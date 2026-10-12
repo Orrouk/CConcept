@@ -97,3 +97,14 @@ Sinon, consigner l'écart dans le backlog.
 Casquette responsable : **Entrepreneur — Concept Créatif**, document maître `IPCRA/2_CAPS/01_CASQUETTES/CAP-ENTREPRENEUR-CONCEPT-CREATIF.md`. Règle technique : `IPCRA/4_TOOLS/00_GOUVERNANCE_IPCRA/GOUVERNANCE-CASQUETTES-SCRUM-IPCRA-2026-10-12.md`.
 
 Concept Créatif, comme activité d'entreprise, est une responsabilité durable et non un projet à fin indéfinie. Le Product Owner gère les **projets finis** (offre proposition de valeur à 399 $ en promotion, acquisition Ads, création d'une offre de PPC clients, visibilité IA / GEO, conversion du site, etc.) et remonte au besoin les obligations de la casquette qui ne relèvent d'aucun chantier. Il conserve l'autorité de Patrick et ne prend aucune action externe sans mandat. Le backlog courant reste le point système dans `IPCRA/0_INBOX`, sans duplication des documents sources.
+
+
+## Préparation du mode opérationnel à la demande — 12 octobre 2026
+
+**Statut réel :** `PILOTE / OBSERVATION`, transition **préparée mais non activée**.
+
+- Contrat d'autorité proposé : [CONTRAT-OPERATIONNEL-PO-CONCEPT-CREATIF-001.md](./CONTRAT-OPERATIONNEL-PO-CONCEPT-CREATIF-001.md).
+- Premier lot borné, non exécuté : [MISSION-LOT-01-COMMERCIALISATION-CONCEPT-CREATIF-001.md](../missions/MISSION-LOT-01-COMMERCIALISATION-CONCEPT-CREATIF-001.md).
+- Le contrat prévoit le passage à la coordination des livrables et à l'exécution **interne, limitée et vérifiée**, sans pouvoir de publication publique, d'engagement publicitaire, de dépense, de modification DNS ni de fusion en production.
+- Cette branche ne vaut pas déploiement. **Seule une commande explicite de Patrick** ouvre le premier lot. Aucun déclencheur permanent n'est installé.
+- Product Goal initial : présentation de l'offre stratégique à 399 $ sur conceptcreatif.com, avec parcours réciproque vers win.conceptcreatif.com. Les offres PPC et GEO et le changement des visuels des annonces restent dans le backlog, hors du lot 01.
