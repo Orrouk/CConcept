@@ -3,7 +3,7 @@ mission_id: MISSION-LOT-01-COMMERCIALISATION-CONCEPT-CREATIF-001
 owner_agent: AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001
 product: Concept Créatif B2B
 date: 2026-10-12
-status: A_REVALIDER_AVANT_ACTIVATION_NON_EXECUTEE
+status: EXECUTION_INTERNE_FAITE_ATTENTE_VALIDATION_ET_BLOCAGES
 mode: OPERATIONNEL_A_LA_DEMANDE
 execution_branch: po-concept-creatif-pilot
 schedule: none
@@ -42,4 +42,40 @@ Ceci est un **candidat** parmi les travaux ouverts : le Product Owner devra le c
 - Activer le suivi autonome, des crons/agents permanents, déployer `main`, publier, modifier les annonces ou engager des dépenses : **NON AUTORISÉ**.
 
 ## Statut
-**PRÉPARÉ / NON DÉCLENCHÉ.** La préparation opérationnelle ne lance aucun agent. La sélection du lot 01 et toute modification de campagne devront être validées lors de l'activation du Product Owner à la demande.
+**ACTIVÉ À LA DEMANDE ET EXÉCUTÉ JUSQU'AU CONTRÔLE DES CANDIDATS.** Le remplacement des visuels reste non exécuté, en attente de validation spécifique et de rétablissement des lectures détaillées. Aucun agent permanent.
+
+
+## PREMIÈRE EXÉCUTION DU LOT — 12 OCTOBRE 2026 — CONTRÔLE RÉEL
+
+Statut : **LECTURE ET PROPOSITION EXÉCUTÉES; MODIFICATION PUBLICITAIRE NON AUTORISÉE / BLOQUÉE**.
+
+### Compte publicitaire résolu
+- Compte accessible : `conceptcreatif@gmail.com`, devise CAD (confirmé par `list_ad_accounts`).
+- Une seule campagne répertoriée : `conceptcreatif@gmail.com campaign 1`, **is_draft=true**, **status=paused**, objectif clicks, ciblage Québec.
+- Un seul groupe `one pager`, **is_draft=true**, **status=paused**, stratégie maximize_clicks.
+- Deux annonces répertoriées, **is_draft=true**, **status=paused**, **review_status=in_review** :
+  1. `Votre 1re page Web` — titre identique, texte : « Page de conversion à 399 $. Mise en ligne rapide, sans frais mensuels d’hébergement. »; destination `https://win.conceptcreatif.com/`.
+  2. `Ad 1 One Page` — titre `Votre 1re landing page`, texte : « Landing page complète à 399 $. Aucun frais récurrent d’hébergement. Découvrez comment. »; destination `https://win.conceptcreatif.com/`.
+- **Aucune publicité active établie**, aucun changement effectué.
+- Limite concrète du connecteur : `get_campaign` a répondu 404 et les deux `get_ad` ont répondu 404 après découverte par les outils de liste. `get_ad_group` a réussi. La lecture détaillée requise pour un diff sûr n'est donc pas garantie. **Interdiction de mutation avant résolution et nouvelle lecture des annonces.**
+
+### Trois images originales inspectées
+Dossier confirmé : https://drive.google.com/drive/folders/1ue8QcesGY-AMkaEN-vs-e6hjstp9MzH4 .
+Toutes : JPEG 1536 × 1536, < 1 Mo, donc au-dessus de la plage 640–1200 recommandée pour un nouveau visuel publicitaire. La règle de traitement des assets du connecteur exige aussi pour les nouvelles images d'annonce des sources visuelles autonomes, sans CTA, prix/badges promotionnels ni interfaces de placement dans l'image. **Les originaux ne répondent pas tels quels au contrôle éditorial source-artwork du workflow ; ne pas les télécharger vers Ads sans dérivé validé.**
+
+- `CC-ADS-20261012-01` : https://drive.google.com/file/d/1-bYLgRoa5gzCojGx3A4x9ICQKqi-Nliu/view ; accroche « Votre entreprise en ligne. Maintenant. », « Landing page complète • 399 $ », et promesse « Hébergement gratuit à vie » + CTA.
+- `CC-ADS-20261012-02` : https://drive.google.com/file/d/1Tu-CTiij5vWZ3AWteLZqAZzrm77RpgCx/view ; accroche « Votre 1re page web », « Page de conversion efficace », « Rapide / Clair / Sans frais d'hébergement », prix 399 $.
+- `CC-ADS-20261012-03` : https://drive.google.com/file/d/1cOI-KjQHREFQ5OLicUeiNRU7oqhKZuYL/view ; accroche « Pas de site ? Commencez ici », landing page 399 $, « hébergement gratuit à vie » + CTA.
+- Les images 01 et 03 présentent une promesse `gratuit à vie` **plus absolue** que le texte publicitaire `sans frais récurrents/mensuels`. Faire arbitrer la conformité au contrat commercial avant toute mise en ligne. Ne jamais corriger les originaux sans conserver les masters.
+
+### Correspondance candidate, non approuvée
+- Annonce `Votre 1re page Web` → candidat image **02** (`Votre 1re page web`), cohérence du message.
+- Annonce `Votre 1re landing page` → candidat image **03** (`Pas de site ? Commencez ici`), angle prospect sans présence Web, sous réserve de la promesse `gratuit à vie`.
+- Image **01** conservée en réserve pour un éventuel test, non assignée.
+
+**Cette proposition n'est pas une autorisation d'intégration.** Aucune image n'a été transformée, redimensionnée, téléversée, affectée à une annonce ni publiée. Les annonces, textes, fichiers images existants, campagnes et budgets sont inchangés.
+
+### Critères bloquants avant une éventuelle modification Ads
+1. Résoudre l'anomalie `get_ad` / `get_campaign` et obtenir l'état créatif actuel par lecture détaillée.
+2. Obtenir un visuel réellement admissible au format d'image-source, dérivé approuvé si nécessaire, et vérifier les promesses d'hébergement.
+3. Montrer et faire valider à Patrick l'état final complet de chaque annonce (textes et URL préservés, statut inchangé) avant tout upload/changement; ne pas confondre accord pour lancer le lot et accord pour écrire sur le compte Ads.
