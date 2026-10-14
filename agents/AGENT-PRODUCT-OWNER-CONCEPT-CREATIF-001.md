@@ -157,3 +157,15 @@ Décision explicite de Patrick, à appliquer aux offres, parcours clients, annon
 - **AUTRES OFFRES** : la page Web intégrée à 399 $ sur le démonstrateur Win demeure une offre distincte existante; aucune décision de son retrait n'est formulée ici. Ne pas confondre audit d'adoption IA, offre de site Web et publicité interne.
 - **GOUVERNANCE** : mettre à jour le backlog et les futures propositions éditoriales selon cette décision. Ne pas publier de modification de site, dépenser, écrire dans Ads ou ouvrir de nouvelles prestations PPC/GEO sans instruction explicite.
 
+
+## SOURCES ACTUALISÉES — VSL ET PROPOSITION DE VALEUR AUDIT IA — 14 OCTOBRE 2026
+
+Documents de travail sauvegardés dans la voûte Concept_Creatif_Obsidian :
+- VSL Audit IA (dossier 05_Contenus) : https://docs.google.com/document/d/1GC_DLyS5uBWk5Fd4LLkVkCHEdtnm7XUvVn4a195Swug/edit
+- Proposition de valeur Audit IA actualisée (dossier 01_Identite_et_positionnement) : https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit
+- Backlog de suivi : https://docs.google.com/document/d/1e3PSJKvAgkz6-9MyRt8Jm15BkVtxoXjILj1DUQmsiaw/edit (section « SUIVI — VSL AUDIT IA, PROPOSITION DE VALEUR ET PAGE D'ACCUEIL — 14 OCTOBRE 2026 »).
+Ces deux sources sont de vrais Google Docs, pas des fichiers prétendument Markdown.
+
+Principe commercial retenu : rencontre exploratoire pour dimensionner la profondeur et le coût de l'audit selon l'organisation (6 ou 60 personnes, services et processus); diagnostic des connaissances, opérations et connexions; feuille de route; améliorations, organisation documentaire, formation ou opérations agentiques seulement si utiles. Ne jamais vendre a priori un deuxième cerveau, un système d'agents, une carte ou une architecture préfabriquée.
+
+À reprendre : VSL audiovisuelle, puis proposition de nouvelle page d'accueil du site officiel https://conceptcreatif.com/, avec CTA « demander une rencontre exploratoire ». La démo https://win.conceptcreatif.com/ reste distincte. PPC et GEO ne sont pas vendus aux clients; offre Web à 399 $ préservée. Aucune publication ou action externe sans validation.
