@@ -135,3 +135,13 @@ Décision explicite de l'entrepreneur, **prioritaire sur tout cadrage antérieur
 - PPC/ChatGPT Ads (gestion pour clients), acquisition Ads interne, SEO/GEO, audit IA et mémoire agentique sont d'autres mandats; **ils ne sont pas inclus dans le forfait à 399 $**.
 - **Règle de publicité** : communiquer le bénéfice immédiatement compréhensible (« votre première page Web », « présenter votre entreprise clairement », « 399 $ »). Les images publicitaires avec **texte promotionnel intégré** sont une intention créative approuvée par le client. Ne pas les écarter automatiquement au profit d'images décoratives ou abstraites; vérifier seulement les exigences réelles du format et les promesses factuelles. Les visuels 02 et 03 ont été approuvés en correspondance avec les deux annonces existantes; leur mise en ligne est une opération distincte.
 - **Règle du Product Owner et des agents** : appliquer cette doctrine avant toute rédaction, mission, contexte publicitaire, conseil d'image, résumé de produit, ajustement de backlog ou relecture; si une ancienne instruction contredit ces points, marquer celle-ci comme **supplantée**. Ne pas redemander au fondateur de répéter cette distinction.
+
+## DISTINCTION CANONIQUE — SITE PRINCIPAL ET DÉMONSTRATEUR — 14 OCTOBRE 2026
+
+Décision explicite de Patrick, à appliquer aux offres, parcours clients, annonces, contenus, backlinks, SEO/GEO, missions, rapports et arbitrages :
+
+- **https://conceptcreatif.com/** est le **véritable site principal et officiel de Concept Créatif**. C'est la référence institutionnelle et commerciale pour l'entreprise et ses offres. Ne pas le réduire à une vitrine secondaire « d'autres prestations ».
+- **https://win.conceptcreatif.com/** est **uniquement le démonstrateur du concept « 1re page Web sans frais d'hébergement »**. Il illustre concrètement la solution et la page déjà réalisée; ce n'est **pas le site principal** de Concept Créatif ni un substitut à celui-ci.
+- Le Product Owner doit distinguer explicitement la **vitrine commerciale principale** et la **démo**, tout en prévoyant les liens pertinents entre elles. Ne pas transformer une recommandation de liaison des pages en obligation de recréer la démonstration ni de refaire l'offre déjà terminée.
+- Cette précision **prime sur les formulations antérieures ambiguës**. Ne jamais appeler Win « le vrai site » ou « le site mère ».
+
