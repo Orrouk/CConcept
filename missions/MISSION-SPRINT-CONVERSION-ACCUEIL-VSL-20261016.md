@@ -10,6 +10,10 @@ priority: P1
 backlog_canonique: https://docs.google.com/document/d/1e3PSJKvAgkz6-9MyRt8Jm15BkVtxoXjILj1DUQmsiaw/edit
 ---
 
+## Décision commerciale actuelle et prioritaire — 16 octobre 2026 : MÉTHODES À ENSEIGNER, NON TECHNOLOGIES À DÉPLOYER
+
+La valeur de Concept Créatif est son expertise de MÉTHODES ADAPTABLES AUX SITUATIONS D'ADOPTION DE L'IA : prompting, organisation des savoirs et du contexte, méthodes PARA adaptées, mémoire agentique lorsqu'utile, pilotage de production Scrum allégé pour coordonner opérations et agents si pertinent. Audit constant : SAVOIRS, OPÉRATIONS, OUTILS. L'audit étudie les circonstances individuelles, les métiers, les freins et détermine QUELLES MÉTHODES ENSEIGNER à QUELLES PERSONNES, sur QUELLES TÂCHES et selon QUELLE PROGRESSION. L'entreprise ne vend ni une nouvelle technologie à déployer partout ni une configuration universelle mémoire+Scrum. L'adaptabilité revendiquée vaut pour les circonstances de l'adoption de l'intelligence artificielle. Les résultats recherchés restent efficacité, sécurité, souveraineté des données. Rencontrer 30 min → audit proportionné dont prix et périmètre convenus → feuille de route d'apprentissage → formation/accompagnement. Les descriptions ci-dessous de « déploiement systématique de la mémoire agentique » sont historiques et SUPERSÉDÉES. Les pages d'accueil (305) et éditeurs (528) et les versions VSL Google Docs/GitHub ont été corrigées le 16 octobre. Statut VSL : rédigée, synchronisée, NON validée, NON enregistrée, NON diffusée. NE PAS modifier WordPress d'après les anciennes versions du sprint ni redémarrer la prospection sortante.
+
 # Sprint — Conversion, page d'accueil et VSL (16–22 octobre 2026)
 
 ## Recadrage canonique — 16 octobre 2026 — MÉTHODE FIXE, CONFIGURATION ADAPTABLE
