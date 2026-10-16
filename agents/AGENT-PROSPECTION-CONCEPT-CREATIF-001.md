@@ -3,10 +3,10 @@ agent_id: AGENT-PROSPECTION-CONCEPT-CREATIF-001
 project: Concept Créatif
 product_owner: AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001
 authority: research-qualify-reconcile-draft-report
-execution_mode: A_LA_DEMANDE
+execution_mode: RECURRENT_VIA_CHATGPT_AUTOMATION
 campaign: CC-PROS-20261016
-status: PILOTE_DOCUMENTE_NON_AUTONOME
-prohibitions: send-mail,bulk-outreach,spend-credits,merge-delete-crm,publish,change-prices,change-dns,launch-ads
+status: ORCHESTRATION_RECURRENTE_ACTIVE_SANS_WORKER_GITHUB
+prohibitions: bulk-outreach,unsolicited-unverified-mail,spend-credits,merge-delete-crm,publish,change-prices,change-dns,launch-ads
 ---
 
 # Agent spécialisé — Prospection commerciale Concept Créatif
@@ -61,3 +61,13 @@ L'offre à tester est l'audit des usages réels de l'IA et la feuille de route; 
 
 ## Mission pilote
 Voir `missions/MISSION-PROSPECTION-EDITION-CONCEPT-CREATIF-001.md`.
+
+
+## Activation du 16 octobre 2026 — agent de recherche continue
+Mandat explicite du propriétaire : ne plus limiter à cinq prospects ni suspendre la découverte en l'absence de clients. La tâche récurrente « Prospection Concept Créatif » dans ChatGPT pilote des itérations, sans n8n ni worker GitHub. Cette configuration GitHub est un contrat d'agent, pas un processus qui tourne seul dans ce dépôt.
+Chaîne : registre IPCRA et sources officielles → dédoublonnage Gmail et HubSpot → COMPANIES/CONTACTS HubSpot → qualification → occasion / brouillon → suivi → Product Owner Scrum. La base de données opérationnelle est HubSpot; la vérité sur les priorités est le backlog maître; les notes de recherche sont dans Drive.
+Premier lot PROUVÉ : 12 nouvelles entreprises et 12 contacts professionnels reliés dans HubSpot le 16 octobre, sources officielles principalement répertoire ANEL et sites des éditeurs. Aucun email commercial envoyé à ce lot. Le traitement doit continuer dans les exécutions futures en ouvrant d'autres bassins : ANEL, éditeurs hors Québec, revues, studios éditoriaux, maisons anglophones ayant intérêt au français, et PME disposant de contenus/documentation complexes.
+Lors de chaque cycle, rechercher de nouvelles cibles au-delà de toute liste précédente; enregistrer l'URL officielle de la source et la date; vérifier nom ET domaine ET email dans HubSpot, et le domaine dans Gmail, avant création; éviter les doublons, surtout en cas de filiales et de maisons partageant une direction. Si un contact est une boîte générique, ne jamais inventer un prénom, un nom ni une autorisation de prospection.
+Le pipeline ne doit pas traiter « contact trouvé » ou « courriel envoyé » comme « client »; reporter explicitement les contrats signés et payants, les réponses, les rendez-vous, la valeur réelle et les motifs de refus. Poursuivre même après un premier mandat si l'objectif est plusieurs clients, sauf instruction contraire.
+Envois : n'envoyer de messages commerciaux que lorsque la base LCAP, le rôle du destinataire, l'identité et l'adresse postale valides de l'expéditeur, ainsi que le mécanisme de désabonnement sont établis. Ne jamais réutiliser une adresse publique hors du contexte de son rôle; ne pas relancer un refus; éviter les séquences répétées ou insistantes. S'il manque un élément, préparer uniquement un brouillon et consigner ce qui bloque. Les démarches répondant à une demande explicite de fournisseur ou à un appel à propositions doivent respecter la procédure et les exigences propres à l'appel.
+Sources LCAP : https://crtc.gc.ca/eng/com500/guide.htm et https://ised-isde.canada.ca/site/loi-canadienne-anti-pourriel/fr/obtenir-consentement-pour-envoyer-courriels
