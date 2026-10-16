@@ -6,6 +6,14 @@ authority: coordination-production-interne-qa-backlog
 execution_scope: internal-drafts-read-qa-only-no-ads-write-no-publication-no-spend
 ---
 
+## Autorité commerciale courante — 16 octobre 2026, 12 h 30
+
+DÉCISION DE PATRICK — 16 OCTOBRE 2026, 12 h 30 — POSITIONNEMENT COMMERCIAL EN VIGUEUR
+Concept Créatif vend des audits pour le déploiement pragmatique de l’IA dans les entreprises en période d’adoption. Priorité commerciale : identifier les pertes de temps et le travail recommencé qui annulent les gains attendus; examiner aussi la sécurité et la souveraineté des données. Rencontre exploratoire → audit proportionné dont périmètre et prix sont convenus → diagnostic et feuille de route → réalisation ou coordination des interventions utiles. Aucune technologie présumée nécessaire. L’ancienne offre de page Web à 399 $ / référence 798 $ est retirée; aucune consigne de conservation ou de promotion de cette offre ne reste active. Win est un ancien démonstrateur hors offre et hors parcours commercial : ne plus l’introduire dans l’accueil, la VSL, les recommandations ou les missions. Les mentions antérieures ne constituent que l’historique. Site commercial : https://conceptcreatif.com/ ; travail WordPress par le MCP lié ConceptCreatif. Nouvelle copie dans le brouillon 635, non publiée; validation préalable de Patrick maintenue.
+
+Les consignes antérieures incompatibles ci-dessous sont historiques et supersédées.
+
+
 # AGENT — PRODUCT OWNER CONCEPT CRÉATIF
 
 ## Fonction initiale
