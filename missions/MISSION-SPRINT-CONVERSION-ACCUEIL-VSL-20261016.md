@@ -12,12 +12,17 @@ backlog_canonique: https://docs.google.com/document/d/1e3PSJKvAgkz6-9MyRt8Jm15Bk
 
 # Sprint — Conversion, page d'accueil et VSL (16–22 octobre 2026)
 
+## Décision commerciale prioritaire — 16 octobre 2026, 12 h 30
+
+DÉCISION DE PATRICK — 16 OCTOBRE 2026, 12 h 30 — POSITIONNEMENT COMMERCIAL EN VIGUEUR
+Concept Créatif vend des audits pour le déploiement pragmatique de l’IA dans les entreprises en période d’adoption. Priorité commerciale : identifier les pertes de temps et le travail recommencé qui annulent les gains attendus; examiner aussi la sécurité et la souveraineté des données. Rencontre exploratoire → audit proportionné dont périmètre et prix sont convenus → diagnostic et feuille de route → réalisation ou coordination des interventions utiles. Aucune technologie présumée nécessaire. L’ancienne offre de page Web à 399 $ / référence 798 $ est retirée; aucune consigne de conservation ou de promotion de cette offre ne reste active. Win est un ancien démonstrateur hors offre et hors parcours commercial : ne plus l’introduire dans l’accueil, la VSL, les recommandations ou les missions. Les mentions antérieures ne constituent que l’historique. Site commercial : https://conceptcreatif.com/ ; travail WordPress par le MCP lié ConceptCreatif. Nouvelle copie dans le brouillon 635, non publiée; validation préalable de Patrick maintenue.
+
 ## Product Goal
 Transformer la nouvelle proposition de valeur de Concept Créatif (« L'IA devait vous faire gagner du temps. Nous identifions pourquoi elle vous en fait perdre et établissons la feuille de route pour qu'elle tienne enfin ses promesses. ») en un parcours commercial cohérent : prospect → échange → rencontre de 30 minutes → audit proportionné et tarifé → feuille de route → mandat de réalisation éventuel.
 
 **Source faisant foi** : https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit
 **Script actuel** : https://docs.google.com/document/d/1GC_DLyS5uBWk5Fd4LLkVkCHEdtnm7XUvVn4a195Swug/edit
-**Canal principal** : https://conceptcreatif.com/ ; démonstrateur Win distinct : https://win.conceptcreatif.com/
+**Canal principal** : https://conceptcreatif.com/ . Offre unique de l’accueil : audit pour le déploiement pragmatique de l’IA.
 **Premier rendez-vous** : https://calendar.app.google/7JdrkaHN8RLbRHxz5
 
 ## Gouvernance, sans nouvelle infrastructure
@@ -44,7 +49,7 @@ Travaux :
 
 ### CC-S2-ACCUEIL | P1 | A REDIGER ET FAIRE VALIDER — reprise de CC-20261014-ACCUEIL et CC-20261012-03
 **Constat vérifié sur WordPress, page 305 le 16 octobre :** H1 « L’IA devient vraiment utile lorsqu’elle connaît votre organisation. » ; « Cinq questions » ciblant mémoire/agents/workflows ; sections « Mémoire. Agents. Workflows. » et « Déployer » qui présupposent implicitement une architecture technique. CTA actuel « Réserver un diagnostic de 30 minutes » confond la découverte gratuite et l'audit éventuellement facturé.
-**Objectif éditorial :** passage de « solutions techniques » à « problèmes concrets, diagnostic, feuille de route, réalisation ciblée ». Ne pas détruire le design, les articles récents ni l'offre intégrée de rédaction stratégique/page Web à 399 $ CAD (798 $ référence).
+**Objectif éditorial :** passage de « solutions techniques » à « problèmes concrets, diagnostic, feuille de route, réalisation ciblée ». Préserver le design et les articles dynamiques; ne conserver aucune ancienne offre de page Web dans l’accueil.
 
 #### Texte de travail / page d'accueil (non publié)
 - Eyebrow : « Concept Créatif · Audit IA et amélioration des méthodes de travail »
@@ -56,7 +61,7 @@ Travaux :
 - Trois étapes : « 1. Échanger — première rencontre de 30 minutes pour définir ce qu'il faut examiner. 2. Auditer — mandat et prix établis selon les équipes et processus à considérer. 3. Agir — diagnostic, feuille de route et, au besoin, formation, organisation des connaissances, intégration ou coordination de spécialistes. »
 - Remplacer les « cinq questions » exclusivement techniques par cinq questions centrées sur les opérations : « Où vos équipes répètent-elles le même travail? / Quels résultats d'IA doivent-elles corriger? / Où se trouvent les connaissances nécessaires? / Quelles méthodes varient d'une personne à l'autre? / Quelles améliorations seraient visibles et mesurables? »
 - Preuve : présenter expérience et méthode sans inventer de statistiques clients ni de témoignages.
-- Conserver la section « Rédaction stratégique et proposition de valeur », la démonstration Win et le blog; la reléguer visuellement derrière l'offre principale, ne pas changer prix/promesse.
+- Retirer toute section d’offre de page Web et tout lien de démonstration : offre retirée par Patrick le 16 octobre 2026.
 - Expliquer que second cerveau, agents ou workflows sont des solutions possibles, jamais des présupposés.
 - CTA final même intitulé « Réserver une rencontre exploratoire de 30 minutes » ; expliciter « La rencontre détermine si un audit est pertinent, et à quelle profondeur. »
 - Éventuel test A/B : une variante de titre « Votre IA fait-elle gagner du temps à vos équipes, ou recommencer le travail? » pour discussion éditoriale; A/B non lancé.
@@ -93,7 +98,7 @@ Dates-cibles de planification uniquement : aucune tâche ne s'exécute d'elle-m�
 6. Compte rendu du PO avec blocages, décisions demandées et prochaines cartes.
 
 ## Instructions de reprise
-Lire le backlog maître EN PREMIER (notamment CC-EDITION-PIPELINE-20261016-POINT-REPRISE), la proposition de valeur et la VSL du 14 octobre; vérifier les nouvelles réponses du jour avant toute décision commerciale. La présente mission ne change ni les décisions de prix de Win ni les annulations PPC/GEO clients. Les casquettes et les PO existants conservent leurs rôles.
+Lire le backlog maître EN PREMIER (notamment CC-EDITION-PIPELINE-20261016-POINT-REPRISE), la proposition de valeur et la VSL du 14 octobre; vérifier les nouvelles réponses du jour avant toute décision commerciale. La décision de Patrick du 16 octobre retire l’ancienne offre Web et le démonstrateur du parcours commercial. Les annulations PPC/GEO restent en vigueur. Les casquettes et les PO existants conservent leurs rôles.
 
 
 ## Résultat d’exécution vérifié — 16 octobre 2026
