@@ -23,7 +23,7 @@ Nous déterminons ce qu’il serait utile d’examiner. Les personnes concernée
 
 Si un audit est pertinent, vous recevez une proposition adaptée. Vous connaissez son périmètre, ses livrables, son calendrier et son prix avant de décider.
 
-Nous examinons ensuite trois dimensions : vos connaissances, vos opérations et leurs connexions. Où se trouve le savoir ? Comment fait-on le travail ? Où l’information se bloque-t-elle ?
+Nous examinons ensuite trois dimensions : vos savoirs, vos opérations et vos outils, ainsi que leurs connexions. Où se trouve le savoir ? Comment fait-on le travail ? Où l’information se bloque-t-elle ?
 
 L’audit débouche sur un diagnostic et une feuille de route : ce qui fonctionne, ce qui vous ralentit, les correctifs à prioriser et les moyens de constater leur effet.
 
@@ -98,9 +98,9 @@ avant de décider.
 
 [Respiration]
 Nous examinons ensuite trois dimensions :
-vos connaissances,
+vos savoirs,
 vos opérations
-et leurs connexions.
+et vos outils, ainsi que leurs connexions.
 Où se trouve le savoir ?
 Comment fait-on le travail ?
 Où l’information se bloque-t-elle ?
@@ -148,7 +148,7 @@ Organiser la réussite.
 | 1 | 0:00–0:23 | Patrick face caméra; coupe vers les mêmes consignes répétées dans un exemple fictif | Pourquoi faut-il tout recommencer ? |
 | 2 | 0:23–0:48 | Retour caméra, alternance avec documents et outils neutres, sans données clients | Comprendre avant de choisir |
 | 3 | 0:48–1:25 | Patrick explique; carton sobre « 6 personnes / 60 personnes » | Rencontre 30 min → périmètre et prix convenus |
-| 4 | 1:25–1:55 | Trois mots apparaissent puis un exemple de feuille de route clairement fictif | Connaissances · Opérations · Connexions |
+| 4 | 1:25–1:55 | Trois mots apparaissent puis un exemple de feuille de route clairement fictif | Savoirs · Opérations · Outils |
 | 5 | 1:55–2:28 | Formation, prompts et documents; retour Patrick sur la réalisation | Former · Organiser · Relier, selon les besoins |
 | 6 | 2:28–2:50 | Patrick face caméra puis carton final ivoire / bleu encre | Réserver une rencontre exploratoire de 30 minutes · conceptcreatif.com |
 
@@ -166,4 +166,4 @@ Rendez-vous sur conceptcreatif.com. Commençons par une difficulté concrète.
 
 ## Contrôle éditorial
 
-Promesse et parcours conformes à la proposition de valeur du 14 octobre, complétée le 16 octobre. Aucun prix d’audit fixé; aucune technologie présumée nécessaire. Validation du texte et lecture chronométrée restent à faire par Patrick avant tournage ou diffusion. La durée indiquée est une estimation de débit, pas une durée mesurée.
+Promesse et parcours conformes à la proposition de valeur du 14 octobre, complétée le 16 octobre. Trois objets d’audit : savoirs, opérations et outils (avec leurs connexions). Trois enjeux pour l’entreprise : efficacité, sécurité et souveraineté des données. Ces deux plans se complètent, sans se remplacer. Aucun prix d’audit fixé; aucune technologie présumée nécessaire. Validation du texte et lecture chronométrée restent à faire par Patrick avant tournage ou diffusion. La durée indiquée est une estimation de débit, pas une durée mesurée.
