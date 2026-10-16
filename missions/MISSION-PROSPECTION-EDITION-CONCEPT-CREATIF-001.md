@@ -40,3 +40,11 @@ Propriétaire : Product Owner commercial pour priorités et acceptation, agent p
 
 ## Définition de terminé
 Cinq fiches réconciliées, zéro entreprise doublonnée par création, zéro contact exprimant un refus dans la liste de diffusion, tous les échanges cités, prochaines actions et critères de contact documentés; brouillons éventuellement soumis à approbation, envois zéro en phase pilote.
+
+
+## Extension exécutée le 16 octobre — prospection sans plafond global
+- Décision : poursuivre la prospection, pas seulement cinq fiches. Cadence : tâche ChatGPT « Acquisition continue Concept Créatif », chaque jour vers 8 h et 15 h, heure de Toronto, avec accès aux connecteurs disponibles. Aucune exécution permanente par GitHub Actions.
+- Douze entreprises NOUVELLES vérifiées en CRM et douze contacts professionnels créés et associés à leur société : Midi trente, Le Dauphin Blanc, Liber, Noroît, À l'étage, Poètes de brousse, du passage, David, L'Interligne, Perce-Neige, Le Cheval d'août, Pleine Lune. Aucun envoi à ce lot. Historique éditorial de L'Interligne en 2025 noté. Source officielle pour la plupart : https://www.anel.qc.ca/membre/ . Les IDs, adresses et liens des 12 dossiers sont conservés seulement dans le rapport privé IPCRA et HubSpot.
+- Objectif des itérations suivantes : nouveaux noms, dédoublonnage systématique, ajout HubSpot, contacts pertinents, suivi Gmail, découverte d'appels à propositions rémunérés, qualification avant toute prise de contact et mesure des vrais contrats.
+- Conformité : pas de contact froid sans conditions LCAP réunies, identité et adresse postale de l'expéditeur, désabonnement et absence de refus; aucune relance insistante. Chercher un moyen conforme plutôt qu'une liste de messages répétés.
+- Détail et tableau HubSpot : https://docs.google.com/document/d/1C-Dufi0YNDPs_LPYgRuZK6QUVv6uOt416_wERKfNRkg/edit
