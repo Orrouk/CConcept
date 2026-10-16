@@ -121,3 +121,7 @@ HubSpot a créé/enrichi automatiquement des entreprises avec les contacts. Une 
 5. Notification du formulaire et raccord Calendar→HubSpot encore à vérifier.
 
 Automatisation existante de suivi réutilisée et prompt raccordé aux preuves : aucune nouvelle tâche ni infrastructure créée; aucune date d’exécution garantie par le document. Le backlog maître garde l’autorité; aucune clôture fictive.
+
+
+### Blocage d’accès supplémentaire
+La vérification automatique a refusé la demande de reconnexion sécurisée HubSpot : elle considère la connexion et le retrait des doublons hors de l’autorisation explicite donnée. Aucune authentification ni suppression effectuée. Accord explicite de Patrick requis pour se reconnecter et retirer uniquement les huit fiches techniques de cette session. Aucun contournement.
