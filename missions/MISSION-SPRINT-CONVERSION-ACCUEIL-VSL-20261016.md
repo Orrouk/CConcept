@@ -12,6 +12,12 @@ backlog_canonique: https://docs.google.com/document/d/1e3PSJKvAgkz6-9MyRt8Jm15Bk
 
 # Sprint — Conversion, page d'accueil et VSL (16–22 octobre 2026)
 
+## Recadrage canonique — 16 octobre 2026 — MÉTHODE FIXE, CONFIGURATION ADAPTABLE
+
+La proposition de valeur n'est plus seulement « audit pour décider quelle solution adopter ». Concept Créatif **dispose d'une méthode-cadre à déployer** : mémoire agentique; organisation des savoirs par une ontologie dérivée de PARA; gestion des opérations de production et coordination des agents par Scrum allégé. L'architecture est définie, sa configuration varie selon le client. La rencontre exploratoire, puis l'audit **savoirs / opérations / outils** servent à identifier son défi spécifique, ses contraintes, ses connexions et la manière de rendre l'implantation simple pour son équipe. Les trois enjeux à traiter sont **efficacité / sécurité / souveraineté des données**, sans les confondre avec les trois objets audités. Le prix et le périmètre de l'audit sont convenus avant travaux; le déploiement est proportionné et peut relever d'un mandat distinct. Le texte « aucune technologie présumée nécessaire » ci-dessous est une **archive supersédée** : ce que nous ne présumons pas, c'est le logiciel fournisseur et la configuration, non l'existence de notre méthode.
+
+VSL canonique harmonisée : https://docs.google.com/document/d/1GC_DLyS5uBWk5Fd4LLkVkCHEdtnm7XUvVn4a195Swug/edit ; livrable synchronisé : [VSL-production](../livrables/CC-SPRINT-20261016-22/VSL-production.md). Le script et le prompteur restent en revue, non enregistrés ni publiés. L'accueil WordPress et la page éditeurs ne doivent PAS être écrasés ou réécrits automatiquement à partir des instructions historiques.
+
 ## Décision commerciale prioritaire — 16 octobre 2026, 12 h 30
 
 DÉCISION DE PATRICK — 16 OCTOBRE 2026, 12 h 30 — POSITIONNEMENT COMMERCIAL EN VIGUEUR
