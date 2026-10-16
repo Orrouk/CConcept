@@ -1,7 +1,7 @@
-# VSL — Audit IA et feuille de route
+# VSL — Audit et déploiement pragmatique de l’IA
 
 Version de production du 16 octobre 2026 · CC-SPRINT-20261016-22
-Statut : script finalisé pour revue humaine. Non enregistré, non publié.
+Statut : script corrigé le 16 octobre à la suite du recadrage de Patrick : pertes de temps prioritaires, sécurité et souveraineté des données. En revue humaine, non enregistré, non publié.
 
 ## Script oral
 
@@ -14,6 +14,8 @@ Vous reconnaissez une partie de ce travail ? C’est là qu’il faut regarder.
 Le problème peut venir d’un outil mal choisi. D’une méthode qui change d’une personne à l’autre. D’un savoir difficile à retrouver. Ou d’informations qui se perdent entre deux étapes.
 
 Avant de choisir la solution, il faut comprendre la difficulté.
+
+L’adoption de l’IA pose aussi des questions de sécurité et de souveraineté des données. Quelles informations transmettez-vous ? Qui peut y accéder ? Où sont-elles conservées ? Gardez-vous les moyens de les récupérer et de changer d’outil ?
 
 Chez Concept Créatif, nous commençons par une rencontre exploratoire de trente minutes. Vous nous parlez de votre organisation, de vos usages de l’IA et d’une tâche qui vous fait perdre du temps.
 
@@ -64,6 +66,13 @@ Ou d’informations qui se perdent entre deux étapes.
 [Pause]
 Avant de choisir la solution,
 il faut comprendre la difficulté.
+
+[Respiration]
+L’adoption de l’IA pose aussi des questions de sécurité et de souveraineté des données.
+Quelles informations transmettez-vous  ?
+Qui peut y accéder  ?
+Où sont-elles conservées  ?
+Gardez-vous les moyens de les récupérer et de changer d’outil ?
 
 Chez Concept Créatif,
 nous commençons par une rencontre exploratoire
@@ -149,7 +158,7 @@ Les repères seront ajustés à la prise retenue. Pas de fausse démonstration, 
 
 L’IA devait vous faire gagner du temps. Pourtant, vous répétez les consignes, refaites les recherches et corrigez les réponses.
 
-Où le temps se perd-il ? Dans l’outil, les méthodes ou la circulation de l’information ?
+Où le temps se perd-il ? Vos données sont-elles protégées ? Gardez-vous leur maîtrise ?
 
 Chez Concept Créatif, une rencontre exploratoire de trente minutes permet de déterminer ce qu’il faut examiner. Si un audit est utile, son périmètre et son prix sont convenus avant de commencer. Vous obtenez un diagnostic et une feuille de route adaptée.
 
