@@ -5,7 +5,7 @@ product_owner: AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001
 casquette: Entrepreneur
 sprint: CC-SPRINT-20261016-22
 period: 2026-10-16/2026-10-22
-status: PLANIFIE_NON_PUBLIE
+status: EXECUTION_LIVREE_EN_REVUE_NON_CLOS
 priority: P1
 backlog_canonique: https://docs.google.com/document/d/1e3PSJKvAgkz6-9MyRt8Jm15BkVtxoXjILj1DUQmsiaw/edit
 ---
@@ -94,3 +94,30 @@ Dates-cibles de planification uniquement : aucune tâche ne s'exécute d'elle-m�
 
 ## Instructions de reprise
 Lire le backlog maître EN PREMIER (notamment CC-EDITION-PIPELINE-20261016-POINT-REPRISE), la proposition de valeur et la VSL du 14 octobre; vérifier les nouvelles réponses du jour avant toute décision commerciale. La présente mission ne change ni les décisions de prix de Win ni les annulations PPC/GEO clients. Les casquettes et les PO existants conservent leurs rôles.
+
+
+## Résultat d’exécution vérifié — 16 octobre 2026
+
+Commande de Patrick : exécuter le sprint sous le PO existant jusqu’à clôture, avec validation de l’accueil avant publication. **État réel : EN REVUE / NON CLOS.** L’exécution est avancée; la validation, certains contrôles et la correction finale CRM restent ouverts.
+
+### Livrables produits
+- Accueil : [copie préparée](../livrables/CC-SPRINT-20261016-22/accueil-305-proposition.html), [sauvegarde source](../livrables/CC-SPRINT-20261016-22/accueil-305-avant.html). Brouillon WordPress 635 enregistré et relu à l’identique, statut draft et modèle page-no-title. Source publiée 305 relue inchangée. Aucun déploiement de l’accueil.
+- VSL : [script, prompteur, storyboard et version courte](../livrables/CC-SPRINT-20261016-22/VSL-production.md). Script 322 mots, prompteur identique après retrait des indications, six séquences, court 84 mots. Durée estimée seulement; pas de tournage ni diffusion. Canon actualisé dans [le document existant](https://docs.google.com/document/d/1GC_DLyS5uBWk5Fd4LLkVkCHEdtnm7XUvVn4a195Swug/edit); ancienne version conservée.
+- Conversion : [grille exploratoire et proposition proportionnée](../livrables/CC-SPRINT-20261016-22/grille-decouverte-proposition-audit.md). Tableau privé et preuves dans [le rapport existant](https://docs.google.com/document/d/1C-Dufi0YNDPs_LPYgRuZK6QUVv6uOt416_wERKfNRkg/edit), sans publier de liste de prospects ici.
+
+### Résultats observés
+89 messages SENT confirmés (38 ancien objet / 51 nouveau), 89 contacts uniques et 89 notes de preuve dans HubSpot. 67 contacts ajoutés après recherche exacte, sept statuts corrigés; 89 contacts relus ATTEMPTED_TO_CONTACT. 89 rattachements à des comptes CRM sélectionnés et relus par recherche des associations : ce ne sont pas 89 groupes juridiquement indépendants. Quatre retours automatiques seulement; aucun intérêt commercial humain trouvé, aucun DEAL présent au contrôle, aucun rendez-vous attribuable à la vague trouvé du 16 octobre au 16 novembre inclus dans l’agenda principal. Aucun nouvel envoi froid ni relance.
+
+Le calendrier existant affiche des créneaux de 30 minutes du 19 au 22 octobre; formulaire de réservation atteint puis annulé sans réservation. Le Google Form de la page Contact a accepté un test interne identifié CCQA-20261016-CONTACT-01 et affiché la confirmation; notification Gmail non trouvée. Ne jamais compter ce test comme conversion.
+
+### Non-conformité CRM introduite pendant la passe
+HubSpot a créé/enrichi automatiquement des entreprises avec les contacts. Une reprise depuis l’inventaire antérieur a entraîné huit créations manuelles en double. Les huit fiches ont été signalées **DOUBLON TECHNIQUE — NE PAS UTILISER**, domaine effacé; sources, contacts et notes sont également rattachés aux comptes antérieurs à conserver. **Aucun retrait ni fusion effectué** : l’API disponible n’offre pas ces actions et la session web HubSpot est expirée. Le critère « zéro doublon créé » n’est pas satisfait au sens strict. Les identifiants privés et comptes à conserver figurent seulement dans le rapport privé. Aucun doublon historique n’a été supprimé.
+
+### Critères restant ouverts
+1. Validation de Patrick sur la copie d’accueil et la VSL; lecture VSL chronométrée.
+2. QA visuelle du rendu réel bureau/mobile : preview WordPress non accessible sans session; navigateur local bloqué par politique et moteur de rendu local indisponible. La copie, les liens internes, le bloc dynamique et le modèle sont vérifiés; ne pas déclarer contrôle visuel réussi.
+3. Retrait effectif des huit fiches techniques créées dans cette session, en préservant comptes canoniques et preuves.
+4. Rapprochement complet des groupes / maisons mères. 18 identités ANEL et des cas spéciaux ont été vérifiés, mais 61 pages membres n’ont pas été récupérées. Ne pas convertir les comptes par domaine en indépendance juridique.
+5. Notification du formulaire et raccord Calendar→HubSpot encore à vérifier.
+
+Automatisation existante de suivi réutilisée et prompt raccordé aux preuves : aucune nouvelle tâche ni infrastructure créée; aucune date d’exécution garantie par le document. Le backlog maître garde l’autorité; aucune clôture fictive.
