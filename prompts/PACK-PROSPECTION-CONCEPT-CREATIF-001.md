@@ -7,6 +7,19 @@ scope: B2B Quebec francophone
 status: ACTIF
 ---
 
+## DÉCISION PRIORITAIRE — 18 OCTOBRE 2026 — CABINETS PROFESSIONNELS ET SYSTÈMES SOUVERAINS
+
+**Le présent mandat commercial est élargi**. Lire avant toute sélection de cible ou rédaction le document canonique https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit, actualisé le 18 octobre 2026. En cas de conflit avec des formulations plus anciennes du présent fichier, cette décision et la source canonique prévalent.
+
+**Segments à prospecter dans cet ordre** : 1. Maisons d'édition FRANCOPHONES québécoises NON déjà contactées; 2. CABINETS D'AVOCATS québécois francophones; 3. autres CABINETS PROFESSIONNELS au Québec — notaires, comptables et CPA, fiscalistes, consultants spécialisés, ingénieurs, architectes, et métiers similaires. La pertinence prime le seul secteur : choisir des interlocuteurs professionnels concernés par la direction, les opérations, la formation, la gestion des connaissances, la transformation IA, la confidentialité ou l'infrastructure; documenter pourquoi la mission pourrait leur convenir. Ne pas utiliser les adresses réservées aux dossiers de clients, à des demandes d'avis juridique ou aux candidatures sans fondement; vérifier individuel LCAP, doublons, refus, retraits et anciens 89 envois.
+
+**Offre exacte** : Concept Créatif évalue les circonstances de l'adoption de l'IA, ENSEIGNE les méthodes de travail appropriées et **OFFRE LA CONCEPTION, LA MISE EN PLACE OU LA COORDINATION DE SYSTÈMES SOUVERAINS** adaptés aux besoins, notamment pour les cabinets sensibles à la maîtrise de leurs dossiers, aux accès, à la confidentialité et à la localisation des données. Les méthodes comprennent prompting, organisation documentaire et du contexte/ontologie dérivée de PARA, mémoire agentique et Scrum allégé si pertinents. L'installation d'un système n'est pas obligatoire ni uniforme; un simple accompagnement peut suffire après le diagnostic. Parcours : rencontre exploratoire de 30 minutes -> audit payant proportionné des SAVOIRS, OPÉRATIONS et OUTILS avec périmètre/prix définis -> feuille de route -> enseignement/accompagnement et, si requis, système souverain. Jamais promettre un hébergement entièrement québécois/canadien, zéro exposition, une conformité aux ordres professionnels ou une sécurité parfaite sans validation technique et contractuelle. Ne pas prétendre que le cabinet utilise l'IA ou est dysfonctionnel si ce n'est pas public.
+
+**Différenciation dans les courriels** : pour les éditeurs, organisation et transmission des savoirs et méthodes; pour les avocats, notaires et CPA, efficacité *et* maîtrise des dossiers/données, circulation des connaissances, adoption prudente et systèmes souverains si utiles; pour ingénieurs/architectes/consultants, méthodes, savoirs, dossiers et contrôle de l'information. Mettre l'accent sur une question exploratoire et le bénéfice possible; ne jamais introduire des alertes de non-conformité inventées. Domaine principal https://conceptcreatif.com/ ; le lien https://conceptcreatif.com/ia-maisons-edition/ ne concerne QUE l'édition.
+
+**Contrôle** : l'Agent 1 utilise les prompts ICP/sourcing/qualification en respectant cette segmentation, inscrit les dossiers admissibles dans la file privée; l'Agent 2 prend exclusivement la file READY/ADMISSIBLE et utilise les prompts de rédaction/envoi avec un angle par profession. Aucun logiciel tiers payant; OpenOutFind/OpenOutreach/LGM sont des références de prompts, non des programmes à installer.
+
+
 # Banque de prompts — Acquisition organique IA — Concept Créatif
 
 ## DECISION CANONIQUE ET PÉRIMÈTRE
