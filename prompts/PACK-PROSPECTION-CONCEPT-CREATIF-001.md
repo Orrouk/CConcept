@@ -7,6 +7,14 @@ scope: B2B Quebec francophone
 status: ACTIF
 ---
 
+## CORRECTION OPÉRATIONNELLE — 18 OCTOBRE 2026 — RECHERCHE RÉCURRENTE SANS AUTODÉSACTIVATION
+
+**DÉCISION DU PRODUCT OWNER : ne plus imputer les échecs d'exécution nocturne/absence de surveillance à des droits HubSpot non accordés.** Vérification directe du 18 octobre 2026 : l'accès CONTACT, COMPANY et NOTE est AVAILABLE en lecture/écriture; deux contacts nouveaux et deux notes ont bien été créés vers 17 h 38 heure du Québec. Cela **prouve la capacité d'écriture du compte, mais pas nécessairement l'absence d'une confirmation à chaque opération du connecteur**. Toujours distinguer permission du compte, confirmation ponctuelle d'une action, erreur technique ponctuelle, absence de candidats et échec de liaison de note.
+
+**Agent 1 doit rester ACTIF chaque heure**, viser 20–30 nouvelles pistes, tenter de qualifier et consigner directement en HubSpot selon les confirmations exigées, et ne JAMAIS se désactiver automatiquement parce qu'une création/association échoue. Continuer immédiatement sur les vérifications et candidats indépendants. Lorsqu'une mutation demande une approbation qui n'est pas accessible dans l'exécution, NE PAS simuler ni contourner cette approbation et NE PAS annoncer une fiche créée : signaler le blocage exact, conserver les résultats d'analyse autorisés et reprendre à l'exécution suivante. Garder Google Sheets hors du pipeline actif.
+
+**Indicateurs séparés obligatoires à chaque cycle** : candidats examinés; adresses officielles vérifiées; contacts CRM effectivement créés; notes CRM effectivement associées et relues; candidats prêts; erreurs de confirmation versus erreurs techniques. Pas de conclusions générales du type « HubSpot bloqué » si le compte possède ses droits et que seules certaines actions n'ont pas été effectuées. Les agents spécialisés désactivés ne doivent pas être présentés comme actifs sans vérification de leur statut réel.
+
 ## DÉCISION OPÉRATIONNELLE PRIORITAIRE — 18 OCTOBRE 2026 — HUBSPOT EST L'UNIQUE FILE ACTIVE
 
 **Instruction expresse du Product Owner : « Ça devrait tout aller dans HubSpot. »** Le pipeline Google Sheets a créé une étape intermédiaire bloquante. **ABANDONNER immédiatement FILE_ACQUISITION_IA COMME FILE ACTIVE** pour tous les cycles futurs. Le registre Google Sheets existant et son onglet ARCHIVE_FILE_2026_10_18 restent conservés en **LECTURE SEULE COMME HISTORIQUE ET LISTE D'EXCLUSION**; ne plus tenter d'y ajouter des candidats, n'y supprimer ou recréer aucune ligne. Les 95 dossiers historiques retirés et les 89 destinataires de la première vague d'octobre ne doivent jamais être réimportés automatiquement.
