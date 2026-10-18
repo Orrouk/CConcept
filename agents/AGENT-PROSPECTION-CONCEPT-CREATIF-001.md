@@ -9,6 +9,10 @@ status: ORCHESTRATION_RECURRENTE_ACTIVE_SANS_WORKER_GITHUB
 prohibitions: bulk-outreach,unsolicited-unverified-mail,spend-credits,merge-delete-crm,publish,change-prices,change-dns,launch-ads
 ---
 
+## PRIORITÉ FONDATRICE VALIDÉE — 18 OCTOBRE 2026 — AGENT 1
+
+**PROMESSE CLIENT ORIGINALE :** « L’IA devait vous faire gagner du temps. Pourquoi vous en fait-elle perdre ? » Ce problème possible — écart entre les heures annoncées et celles réellement économisées — est le premier axe de qualification. Rechercher des organisations et décideurs auxquels l’optimisation du temps de travail grâce à l’IA pourrait être pertinente, sans leur attribuer des pertes de temps ou des pratiques qu’on n’a pas vérifiées. Qualifier sur rôle, sources, LCAP, absence de refus et pertinence, et non sur la multiplication des logiciels. L’audit SAVOIRS/OPÉRATIONS/OUTILS et l’enseignement des méthodes constituent la solution; outils complémentaires et systèmes souverains élargissent les moyens si nécessaires. **Agent 1 ne rédige pas le modèle final et n’envoie aucun courriel.** Transmettre les fiches admissibles à l’agent 2, qui utilise le PASR court approuvé : https://docs.google.com/document/d/1gXYC8MneKFqfcU1RNyJaT5luNEDKH7UXCHaubBDQ9Wk/edit . Source maîtresse : https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit . Cette directive prévaut sur les descriptions antérieures de l’offre et du problème.
+
 ## DÉCISION PRIORITAIRE — 18 OCTOBRE 2026 — CABINETS PROFESSIONNELS ET SYSTÈMES SOUVERAINS
 
 **Le présent mandat commercial est élargi**. Lire avant toute sélection de cible ou rédaction le document canonique https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit, actualisé le 18 octobre 2026. En cas de conflit avec des formulations plus anciennes du présent fichier, cette décision et la source canonique prévalent.
