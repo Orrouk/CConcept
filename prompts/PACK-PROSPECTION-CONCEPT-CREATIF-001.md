@@ -114,6 +114,22 @@ Si un point échoue, classer **A_QUALIFIER** avant transfert ou corriger le brou
 
 **Ordre de composition :** accroche métier personnalisée → situation/problème possible formulé sans présupposition → bénéfice et compétence de Concept Créatif (méthodes ENSEIGNÉES + système souverain éventuel) → invitation unique à la rencontre de 30 minutes → identification de l'expéditeur, coordonnées postales et mécanisme de retrait LCAP. Éviter un long inventaire des méthodes PARA/Scrum/prompting dans le premier courriel : les garder pour l'entretien ou lorsque la pertinence est manifeste. Ne pas confondre le CTA de conversation avec l'offre d'audit payant : l'audit n'est proposé et tarifé qu'après compréhension du contexte. Aucune modification du statut de consentement ou expédition par le seul acte de rédaction.
 
+## VALIDATION DU PRODUCT OWNER — 18 OCTOBRE 2026 — MODÈLE PASR POUR LA SUITE DES ENVOIS
+
+**Statut : VERSION VALIDÉE ET PRIORITAIRE POUR AGENT 2.** Le Product Owner a explicitement validé la variante de courriel PASR, pour la suite des envois. Elle **remplace les précédents courriels de prospection types**, notamment l'ancien objet « L’IA devait vous faire gagner du temps. Pourquoi faut-il recommencer ? », et la liberté antérieure de choisir APP/BAB/QUEST pour la rédaction courante. Le **texte intégral approuvé**, l'objet, la signature et les règles de personnalisation sont conservés dans un **document privé de la voûte**, accessible à l'Agent 2 :
+
+https://docs.google.com/document/d/1gXYC8MneKFqfcU1RNyJaT5luNEDKH7UXCHaubBDQ9Wk/edit
+
+**Objet validé :** « L’IA évolue vite. Vos outils actuels peuvent suffire. »
+
+**Logique obligatoire PASR :** Problème = beaucoup d'outils apparaissent rapidement ; Amplification = accumulation d'apprentissages, d'abonnements et de méthodes ; Solution = apprendre à organiser et orchestrer les outils déjà connus, auditer les savoirs/opérations/outils, enseigner les méthodes et proposer si nécessaire des systèmes souverains ; Résultats recherchés = autonomie, efficacité, moins de tâches répétées, meilleure maîtrise des connaissances et données. Parler de résultats visés, non de résultats déjà prouvés pour le prospect.
+
+**Tonalité et image approuvées :** rassurer plutôt qu'alarmer; apprendre à nager dans un environnement nouveau, acquérir des repères et apprendre les bons gestes. Conserver, lorsque pertinent, la phrase distinctive « Pas besoin de changer de piscine à chaque nouvelle vague. » Ne pas remplacer arbitrairement le texte approuvé par de nouveaux modèles marketing; le catalogue de 30 structures reste une ressource pour d'autres livrables, non un prétexte pour changer cette campagne.
+
+**Personnalisation sans déformation :** employer « Bonjour Me [Nom] » et « votre cabinet » uniquement pour un cabinet juridique; pour éditeurs utiliser « votre maison d'édition » et l'enjeu des savoirs/processus éditoriaux; pour CPA, notaires, architectes, ingénieurs et autres métiers, adapter uniquement les références professionnelles vérifiées et la salutation. Conserver l'orientation : les outils habituels suffisent souvent, l'enjeu est de mieux les organiser et orchestrer. Ne pas inventer l'utilisation de l'IA, les problèmes ou les failles de l'organisation. Conserver le CTA de 30 minutes et la possibilité de répondre directement. La signature complète et l'adresse postale privée figurent dans le modèle de la voûte : ne jamais les recopier dans GitHub/Trello public.
+
+**Exécution :** avant un envoi, relire le modèle canonique PASR en plus de la proposition de valeur à jour; sélectionner seulement PRET_ENVOI + ADMISSIBLE; recontrôler LCAP, sources, refus, Gmail SENT et HubSpot; prouver chaque envoi et mettre à jour Sheets. Aucune nouvelle relance aux destinataires historiques. Cette validation porte sur le CONTENU des futurs envois, pas sur un envoi immédiat hors file ni sur un assouplissement des contrôles.
+
 ## PROMPT 4 — COURRIEL INDIVIDUEL (AGENT 2)
 
 > Ne travaille que sur les lignes N=PRET_ENVOI ET M=ADMISSIBLE déjà sourcées par l'agent 1. Relis sources/rôle/raison de qualification dans la file. Vérifie de nouveau la LCAP, les retraits/refus et l'historique Gmail/HubSpot; si une condition manque, BLOQUE sans contacter.
