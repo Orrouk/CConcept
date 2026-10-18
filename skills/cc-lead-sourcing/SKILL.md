@@ -19,3 +19,7 @@ description: Trouver et qualifier des prospects B2B québécois et transmettre d
 **Sorties interdites :** adresses générées/devinées, données achetées sans autorisation, contacts artificiels, inscription sur une liste marketing HubSpot non approuvée, envoi de message, modification d'une autre campagne ou nouveau backlog.
 
 **Commande externe future non activée :** `outfind find 10` ou `outfind find 10 emails` nécessite l'installation du CLI, sa configuration et éventuellement BetterContact/crédits. Ne pas lancer dans une session éphémère et prétendre à un service pérenne.
+
+## RUNTIME DE TRANSMISSION — FILE GOOGLE SHEETS PRIVÉE
+
+La transmission exécutable utilise maintenant le Google Sheet privé existant `REGISTRE-MAITRE-CONTACTS-001`, onglet `FILE_ACQUISITION_IA` : https://docs.google.com/spreadsheets/d/1R7YImZfU5mPYNWhXUBZDlgOkTTnnhyloXAklXfB2oxk/edit#gid=1032913605. Écrire/actualiser les lignes sans doublons (identité entreprise + contact + email). Préparer URL/date de source, consentement LCAP, pertinence poste/offre et contrôle Gmail. Laisser `A_QUALIFIER` si incertitude. Marquer `PRET_ENVOI` seulement avec `Consentement contrôlé=ADMISSIBLE` et preuve complète. Le CRM HubSpot reste à réconcilier/synchroniser selon ses permissions; ne pas prétendre y avoir écrit si l'opération n'a pas été faite. Ne PAS envoyer.
