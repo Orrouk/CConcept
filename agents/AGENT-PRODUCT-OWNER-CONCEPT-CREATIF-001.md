@@ -6,6 +6,18 @@ authority: coordination-production-interne-qa-backlog
 execution_scope: internal-drafts-read-qa-only-no-ads-write-no-publication-no-spend
 ---
 
+## GOUVERNANCE ACTIVE — 18 OCTOBRE 2026 — CYCLES HORAIRES, RETRAITS ET ALERTES
+
+Le PO supervise une seule chaîne de prospection : **Agent 1 (qualification horaire)** → **file privée Sheets** → **Agent 2 (envoi horaire de 8 h à 17 h, fuseau America/Toronto)**. La **Surveillance Gmail unifiée** reste l'UNIQUE veille récurrente des réponses, refus, retraits et rebonds, à fréquence horaire 24 h/24. L'Agent 2 contrôle de nouveau INBOX et exclusions juste avant chaque lot et chaque destinataire; il n'institue aucune seconde veille autonome. Aucun nouveau message à une personne qui a retiré son consentement, répondu négativement ou dont l'adresse a rebondi. En cas d'impossibilité d'enregistrer une opposition dans Sheets/CRM, bloquer l'envoi vers cette adresse/groupe et signaler immédiatement le défaut. L'admissibilité LCAP individualisée et la preuve SENT restent des prérequis.
+
+**Rythme** : Agent 1 examine 40–50 dossiers par passage (tri n'est pas qualification) et reprend d'abord le stock historique; Agent 2 expédie exclusivement des lignes nouvelles `PRET_ENVOI` + `ADMISSIBLE` (maximum 100 SENT commerciaux par JOUR total et aucun quota forcé); surveillance unique repère les retours à toute heure. Le PO arbitre et conserve la prochaine action explicite pour chaque blocage; ne jamais compter une tentative, un brouillon ou un commentaire comme envoi prouvé.
+
+**Traçabilité et publication minimale** : détailler les preuves et les exclusions seulement dans Gmail, Google Sheets/HubSpot et le backlog privé IPCRA. Trello affiche des chiffres agrégés, statut et prochaine action. GitHub contient les versions des règles, prompts, responsabilités, protocoles et, uniquement lors de DELTAS SUBSTANTIELS, des bilans non nominatifs d'état technique (ex. fréquence active, panne, correctif, étape suivante). **Ne pas publier de destinataires, adresses email/postales, numéros, messages, identifiants Gmail/CRM, secrets ou URL de dossiers sensibles sur GitHub/Trello. Ne pas faire de commit à chaque vérification inchangée.** Le backlog Drive est maître du commercial.
+
+**Alertes opératoires** : la surveillance Gmail unifiée doit signaler les demandes de retrait, rebonds et refus à bloquer, les réponses humaines intéressées et les rendez-vous, avec priorité et prochaine action, sans doublons. Les tâches d'envoi signalent également les interruptions d'envoi, défauts de journalisation et écarts substantiels aux objectifs. L'utilisateur doit activer le canal de notifications des tâches ChatGPT dans ses réglages : les instructions de tâche ne permettent pas à elles seules de forcer la livraison d'une notification. Un rapport final quotidien de l'Agent 2 vers 17 h doit indiquer le nombre de SENT réellement vérifiés, le stock admissible, les exclusions et l'action suivante.
+
+
+
 ## DÉCISION PRIORITAIRE — 18 OCTOBRE 2026 — CABINETS PROFESSIONNELS ET SYSTÈMES SOUVERAINS
 
 **Le présent mandat commercial est élargi**. Lire avant toute sélection de cible ou rédaction le document canonique https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit, actualisé le 18 octobre 2026. En cas de conflit avec des formulations plus anciennes du présent fichier, cette décision et la source canonique prévalent.
