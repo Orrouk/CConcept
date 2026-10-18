@@ -18,3 +18,7 @@ description: Traiter la file HubSpot vérifiée CC-PRET-ENVOI, personnaliser un 
 **Bilan journalier obligatoire** en fin de journée : `date | contacts READY au début | messages SENT avec preuve | total / 1000 | erreurs | file restante | réponse/rendez-vous constatés | prochaine étape`.
 
 **Test :** un passage de la file HubSpot jusqu'à Gmail SENT/HubSpot/backlog doit être prouvé avant toute affirmation de « pipeline automatisé testé ».
+
+## RUNTIME DE TRANSMISSION — FILE GOOGLE SHEETS PRIVÉE
+
+La file exécutable est `REGISTRE-MAITRE-CONTACTS-001` / `FILE_ACQUISITION_IA` (https://docs.google.com/spreadsheets/d/1R7YImZfU5mPYNWhXUBZDlgOkTTnnhyloXAklXfB2oxk/edit#gid=1032913605). Ne lire que lignes `PRET_ENVOI` et `ADMISSIBLE` avec source, date, rôle, contrôle Gmail et consentement LCAP documentés. Revalider Gmail/HubSpot et fondement avant chaque envoi. Marquer `EN_COURS` avant; `ENVOYE` + ID Gmail SENT + date après preuve; sinon `BLOQUE` + cause, sans compter l'envoi. La synchronisation HubSpot est distincte, selon ses permissions. L'ancien filtre CRM `OPEN` ne vaut pas autorisation d'expédier sans ligne Sheets prête. Ne pas chercher des prospects dans ce rôle.
