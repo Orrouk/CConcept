@@ -78,6 +78,45 @@ Si un point échoue, classer **A_QUALIFIER** avant transfert ou corriger le brou
 - HubSpot : identités, statuts et historique; Gmail : source primaire des envois et réponses.
 - Campagne historique : 89 emails réellement SENT le 16 octobre 2026 à exclure des nouveaux envois ; refus et retraits exclus.
 
+## QUALIFICATION COMMERCIALE RENFORCÉE — DÉCISION DU 18 OCTOBRE 2026 — AGENT 1
+
+**But : identifier les organisations qui ont une raison plausible, vérifiable et économiquement exploitable d'apprendre à mieux maîtriser l'IA, les méthodes et leurs outils EXISTANTS.** Ce n'est pas une récolte d'adresses. Prioriser la valeur potentielle d'un premier audit / accompagnement et l'accès à une vraie personne responsable. Le ciblage reste Québec francophone : maisons d'édition jamais contactées, avocats, puis autres cabinets professionnels; poursuivre les nouveaux segments lorsque le premier vivier est épuisé au lieu de répéter des prospects.
+
+### A. Portes obligatoires — PASS/FAIL, indépendantes du score commercial
+
+1. Organisation véritable et secteur professionnel pertinent; ne pas inventer sa taille, son budget, l'usage actuel de l'IA, ses outils, ses difficultés ni ses projets.
+2. Interlocuteur identifiable, fonction réelle en lien avec la direction, les opérations, la formation, l'innovation, la gestion des connaissances, les systèmes ou la maîtrise des dossiers. L'adresse doit correspondre à cette personne ou à un canal professionnel adéquat; une boîte générique ou réservée aux clients/candidatures ne reçoit pas une admissibilité automatique.
+3. Courriel exact et origine vérifiable : URL de la publication par le titulaire ou son organisation, date de consultation et indication de la présence/absence d'une mention opposée aux sollicitations. Ne jamais deviner une adresse, exploiter une liste achetée ni inférer un consentement d'un annuaire recopié.
+4. Base LCAP documentée (consentement exprès prouvé ou consentement tacite admissible, notamment publication bien en vue par le titulaire **sans opposition** et contenu pertinent aux fonctions). La seule existence publique d'un courriel ne vaut pas autorisation. Conserver des preuves contemporaines suffisantes pour justifier source, publication et pertinence. Référence CRTC : https://crtc.gc.ca/eng/com500/faq500.htm
+5. Vérification effective des doublons, anciens envois Gmail SENT, 89 destinataires historiques, HubSpot contacts/entreprises, entités parentes, refus, désabonnements et rebonds. Ne pas réinscrire comme nouveau un prospect déjà sollicité.
+6. Adéquation entre le poste du destinataire et l'offre réelle : audit des SAVOIRS, OPÉRATIONS et OUTILS, puis enseignement de méthodes adaptées, orchestration des ressources existantes et système souverain OPTIONNEL si justifié. Le premier CTA est la rencontre exploratoire de 30 minutes, pas la vente forcée d'un logiciel.
+
+**Si une seule porte est non vérifiée : M=NON_VERIFIE ou REVOIR; N=A_QUALIFIER (ou BLOQUE/REFUS/RETIRE si motif bloquant établi), jamais PRET_ENVOI.** Un bon score commercial n'autorise jamais à contourner la LCAP, un refus ou une identité non vérifiée.
+
+### B. Priorité commerciale — grille observable 0 à 10
+
+Noter chaque axe **0 = non démontré**, **1 = potentiel plausible, expliqué**, **2 = indice concret et sourcé**. L'absence de preuve publique n'est PAS la preuve que l'organisation a un problème; ne pas attribuer 2 pour une simple intuition liée au secteur.
+
+- **Savoirs à organiser (0–2)** : dossiers, archives, publications, documentation, procédures, connaissances à conserver ou transmettre, observables dans l'activité déclarée.
+- **Outils à orchestrer (0–2)** : processus ou outils numériques publiquement identifiables pouvant gagner à être organisés, connectés ou mieux maîtrisés; priorité à l'usage de l'existant. Ne pas affirmer quels logiciels le prospect possède sans source.
+- **Équipes à accompagner (0–2)** : plusieurs rôles/personnes ou flux de travail où l'apprentissage de méthodes et la coordination pourraient servir. Aucun seuil de taille arbitraire.
+- **Accès à un décideur (0–2)** : interlocuteur avec responsabilité pertinente et possibilité crédible de cadrer un mandat; son pouvoir budgétaire ne se présume pas.
+- **Enjeux de maîtrise des données (0–2)** : nature des dossiers, confidentialité, conservation ou contrôle des informations pouvant rendre l'audit ou, au besoin, un système souverain pertinent; ne pas prétendre que l'organisation a subi une faille.
+
+**Règle de classement :**
+- **7 à 10** : PRIORITÉ HAUTE, prospect à traiter en premier si les 6 portes passent.
+- **4 à 6** : PRIORITÉ MOYENNE, prospect exploitable si les 6 portes passent et au moins une raison professionnelle concrète est formulée.
+- **0 à 3** : PRIORITÉ BASSE / À EXAMINER. Continuer la recherche d'un interlocuteur ou de faits utiles; ne pas transférer automatiquement à l'envoi.
+
+Le score sert à **ordonner** la file, jamais à déclarer l'admissibilité juridique. Ne pas inventer une urgence, un budget, un problème interne, ni un « logiciel à changer » à partir du secteur. Si le score est insuffisamment documenté, expliquer quels indices publics manquent, plutôt que déduire l'inaptitude de l'entreprise.
+
+### C. Consignation, sans nouveaux fichiers ni nouvelles colonnes
+
+- Google Sheets existant `FILE_ACQUISITION_IA` : en **K (Pertinence poste / offre)** indiquer `SCORE x/10 — HAUTE/MOYENNE/BASSE | 5 axes : x/x/x/x/x | raison de sélection fondée sur des faits`. En **O (Angle de personnalisation)** noter le métier, l'orchestration des outils existants, l'autonomie recherchée et le CTA. En **S (Notes)** inscrire signaux non vérifiés, réserves et preuve manquante. Sources et date en H/I, LCAP en J/M, Gmail en L, statut en N.
+- Pour chaque candidat, produire en interne une seule phrase personnalisée : « Pourquoi cette organisation et pourquoi cet interlocuteur pour apprendre à orchestrer les outils actuels? »; le texte du premier courriel reste le **modèle PASR validé** de l'Agent 2, sans réécriture de la campagne.
+- Dédupliquer AVANT écriture; mettre à jour une fiche existante au lieu de la recopier. Si la recherche ne révèle aucun candidat qualifiable, conserver 0 prêt et indiquer les motifs; ne pas fabriquer des pistes pour atteindre un quota.
+- Bilan à chaque cycle : nouveaux candidats réels, filtres refusés, à qualifier, PRET_ENVOI, répartition de priorité haute/moyenne, qualité des preuves et principal frein. La recherche peut tourner chaque heure; les envois gardent leurs propres règles, horaires et limites.
+
 ## PROMPT 1 — PROFIL CLIENT IDÉAL / ICP (AGENT 1)
 
 > Tu es l'agent de recherche de Concept Créatif. L'offre vendue : un diagnostic concret de l'adoption de l'IA dans une organisation, pour réduire les pertes de temps dues aux recherches répétées, consignes/prompt réécrits, outils mal choisis et connaissances dispersées. Les moyens (formation, méthodes, organisation documentaire, intégrations ou spécialistes) sont décidés APRÈS examen, sans logiciel imposé.
