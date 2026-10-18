@@ -71,3 +71,28 @@ Cinq fiches réconciliées, zéro entreprise doublonnée par création, zéro co
 **Définition d'un envoi admissible :** contact professionnel et rôle vérifiés, entreprise/groupe réellement nouveau, pas de refus, pas de doublon ni de recontact de la cohorte des 89; base de consentement LCAP documentée individuellement, pertinence au destinataire, aucune restriction de publicité de l'adresse, conformité de la signature avec adresse d'expéditeur et procédure de retrait; personnalisation; vérification Gmail SENT après émission. En cas de blocage, ne pas contourner, ne pas compter, enregistrer la cause et prospecter d'autres cibles. Ne jamais confondre les envois et les ventes.
 
 **Nouvelle définition de terminé :** la prospection elle-même est une activité continue de la casquette Entrepreneur et ne se ferme plus après un seuil; chaque cohorte est clôturable avec preuves et suivis. Si la mission est devenue obsolète uniquement par décision explicite du propriétaire, la clôturer; autrement avancer aux prochaines cibles admissibles et aux contrats.
+
+## EXÉCUTION PAR ÉTAPES — DEUX AGENTS — 18 OCTOBRE 2026 (MANDAT ACTIF)
+
+**Décision autorisée : séparer les opérations en deux missions d'exécution successives au sein de la MÊME mission canonique et du MÊME Product Owner; ne pas créer deux backlogs indépendants.** Cette section prévaut sur les précédents paragraphes qui décrivent l'acquisition comme une exécution monolithique. La cible opérationnelle commerciale 1000+ messages prouvés reste inchangée, avec 89 SENT historiques au 16 octobre. Objectif 50 à 100 courriels/jour lorsque les contacts nouveaux sont légalement admissibles.
+
+### ÉTAPE A — Sourcing et qualification, SANS ENVOI
+Responsable : `AGENT-PROSPECTION-CONCEPT-CREATIF-001`.
+- Inputs : ICP audit de l'adoption IA, zones francophones du Québec, restrictions Gmail / HubSpot, registre des 89 anciens envois, refus et désabonnements.
+- Pratiques issues de `skills/cc-lead-sourcing/SKILL.md`, OpenOutFind, LaGrowthMachine/gtm-system. Les dépôts externes sont validés comme références mais pas installés.
+- Outputs : prospects réels et dédoublonnés dans HubSpot ; `NEW` s'ils sont insuffisamment qualifiés ; `OPEN` ET note de passage privée `CC-PRET-ENVOI` avec URL, date, adresse professionnelle directement publiée ou autre base LCAP et pertinence du rôle si réellement admissibles.
+- Les contacts existants OPEN sans note READY n'entrent pas dans la file d'envoi ; aucune inscription ou modification de propriété personnalisée sans consentement requis par HubSpot.
+- Blocage recherche / sources / autorisation : remonter au PO sans faux contacts, sans faux envois.
+
+### ÉTAPE B — Expédition et preuve, SANS RECHERCHE DE NOUVEAUX CONTACTS
+Responsable : `AGENT-ENVOI-COMMERCIAL-CONCEPT-CREATIF-001`.
+- Inputs : contacts OPEN + note privée CC-PRET-ENVOI chez HubSpot, vérifiés au moment de l'envoi.
+- Recontrôles : LCAP, messages antérieurs Gmail, refus/retrait, familles de sociétés, personnalisation. Chaque courriel contient identification, adresse postale autorisée, téléphone, mécanisme de retrait, lien de rendez-vous et page de service appropriée; jamais Boréal.
+- Output : un message Gmail SENT avec ID ; uniquement après preuve, note privée `CC-ENVOYE` + `hs_lead_status=ATTEMPTED_TO_CONTACT` dans HubSpot et compteur dans le backlog. Pas de preuve = zéro envoi. Plafond interne 100 nouveaux mails/jour tous passages inclus.
+- Si FILE_VIDE, aucune recherche supplétive; l'agent A continue en amont. Si blocage Gmail, aucune tentative de contournement.
+
+### ÉTAPE C — Gouvernance / conversion déjà en place
+Product Owner : backlog maître `CC-ACQ-CONTINUE-1000-20261018`; Trello = miroir. Surveillance Gmail unifiée = seule lecture/routage des réponses; aucun second suivi. Le PO surveille les contacts READY, l'âge de la file, Gmail SENT, les taux de réponse, rendez-vous, devis et mandats. Une opportunité DEAL HubSpot exige de l'intérêt commercial réel; ne jamais déduire un contrat du seul envoi.
+
+### CONDITIONS DE VALIDATION
+Les descriptions agents et skills locaux installés sur GitHub, automatisations séparées et lecture HubSpot vérifiée constituent la *configuration*. Une première fiche qualifiée et écrite dans le CRM, un message SENT via la file, puis une mise à jour CRM relue établissent un *test d'intégration réel*. Avant ce test, statut `PIPELINE_CONFIGURÉ — TEST_DE_BOUT_EN_BOUT_NON_DÉMONTRÉ`. Les programmes CLI OpenOutFind/OpenOutreach ne font PAS partie de l'exécution native tant que les prérequis (environnement persistant, clés, fournisseur sous licence, budgets, politique anti-pourriel) ne sont pas effectivement configurés.
