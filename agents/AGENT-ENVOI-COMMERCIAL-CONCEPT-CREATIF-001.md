@@ -8,6 +8,10 @@ state: ACTIVE_SOUMISE_A_CONTACTS_PRETS_ET_OUTILS_DISPONIBLES
 date: 2026-10-18
 ---
 
+## PRIORITÉ FONDATRICE VALIDÉE — 18 OCTOBRE 2026 — AGENT 2
+
+**Modèle de prospection validé par Patrick :** PASR courte, objet « L’IA vous fait-elle vraiment gagner du temps ? ». Lire la version PRIVÉE, incluant signature, adresse postale et retrait : https://docs.google.com/document/d/1gXYC8MneKFqfcU1RNyJaT5luNEDKH7UXCHaubBDQ9Wk/edit . La promesse principale est le gain de temps réel avec l’IA, souvent différent de celui annoncé; le problème est une question exploratoire, pas un fait imputé au prospect. Amplifier par des reprises de consignes, des corrections et du travail recommencé possibles; solution = audit des savoirs/opérations/outils, méthodes adaptées enseignées, compléments seulement s’ils sont utiles; résultats visés = temps économisé, autonomie, maîtrise des connaissances et des données. **La version longue fondée sur la multiplication des outils et la natation est remplacée pour les futurs envois.** Respecter les contrôles LCAP, les refus et retraits, les exclusions et preuves Gmail SENT. Aucun envoi supplémentaire n’est déclenché par ce changement documentaire. Source canonique : https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit . Cette directive prévaut sur les sections plus anciennes de ce fichier.
+
 ## DÉCISION PRIORITAIRE — 18 OCTOBRE 2026 — CABINETS PROFESSIONNELS ET SYSTÈMES SOUVERAINS
 
 **Le présent mandat commercial est élargi**. Lire avant toute sélection de cible ou rédaction le document canonique https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit, actualisé le 18 octobre 2026. En cas de conflit avec des formulations plus anciennes du présent fichier, cette décision et la source canonique prévalent.
