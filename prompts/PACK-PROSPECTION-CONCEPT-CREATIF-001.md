@@ -7,6 +7,16 @@ scope: B2B Quebec francophone
 status: ACTIF
 ---
 
+## RÈGLE D'EXÉCUTION PRIORITAIRE — 18 OCTOBRE 2026 — RETOURS GMAIL ET MISES À JOUR
+
+Les prompts 1–3 alimentent/qualifient les fiches historiques et nouvelles; les prompts 4–5 personnalisent et expédient seulement les lignes `PRET_ENVOI` + `ADMISSIBLE`. **Agent 1** passe chaque heure, examine de préférence 40–50 dossiers du stock sans assimiler tri et qualification. **Agent 2** passe chaque heure de 8 h à 17 h (America/Toronto), ne recherche pas de contacts; chaque passage doit commencer par le plafond SENT du JOUR, les exclusions et nouvelles réponses/refus/retraits/rebonds Gmail. Avant chaque envoi, revalider six portes de l'Agent 1 et Gmail/HubSpot; en cas de retrait ou refus, bloquer et conserver preuve dans les supports PRIVÉS. Seule la **Surveillance Gmail unifiée** reste responsable des alertes périodiques des réponses et demandes de retrait, 24 h/24; ne pas la dupliquer.
+
+À chaque passage utile : consigner les changements factuels dans la file privée, et faire remonter au backlog maître IPCRA le delta agrégé, la prochaine action du PO et les blocages. Tenir Trello à jour en agrégé. Actualiser GitHub **uniquement lorsque les instructions, le processus, l'état technique important ou la mission changent**; ne pas générer un commit horaire, ne pas y copier les noms de prospects, adresses, emails, fichiers privés, retours, identifiants de messages ou de CRM, ni la liste d'exclusion. Si aucune variation vérifiée, conserver les versions inchangées. En cas d'erreur de connecteur, journaliser le blocage sans prétendre avoir écrit ou envoyé.
+
+L'Agent 2 maintient le plafond dur de 100 envois COMMERCIAUX vérifiés `Gmail SENT` par jour tous cycles confondus, contre la cible conditionnelle de 50–100. Aucune relance automatique des campagnes historiques. À 17 h, rapport quotidien même si zéro envoi. Alertes ciblées : retrait et refus nouveaux, rebond massif, prospect intéressé, rendez-vous confirmé, panne d'accès, stock de destinataires admissibles insuffisant. Le PO présente systématiquement **la prochaine action**. Les notifications ChatGPT doivent être activées côté compte pour parvenir à l'utilisateur.
+
+
+
 ## DÉCISION PRIORITAIRE — 18 OCTOBRE 2026 — CABINETS PROFESSIONNELS ET SYSTÈMES SOUVERAINS
 
 **Le présent mandat commercial est élargi**. Lire avant toute sélection de cible ou rédaction le document canonique https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit, actualisé le 18 octobre 2026. En cas de conflit avec des formulations plus anciennes du présent fichier, cette décision et la source canonique prévalent.
