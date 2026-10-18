@@ -23,6 +23,37 @@ Inspiration méthodologique vérifiée :
 
 Ce PACK est une **adaptation originale en français des principes**, et non l'exécution des scripts, bases privées ou plateformes des auteurs.
 
+## SOURCE CANONIQUE OBLIGATOIRE — PROPOSITION DE VALEUR (16 OCTOBRE 2026)
+
+**Avant de définir des cibles ET avant de rédiger chaque courriel, lire la version la plus récente du document maître :**
+https://docs.google.com/document/d/1RKDFmQ1hIyu2BPv_60xxEFh1qcwPUcloJeWg2jD4aTk/edit
+
+Document compagnon VSL, dont la version actuelle reprend cette doctrine : https://docs.google.com/document/d/1GC_DLyS5uBWk5Fd4LLkVkCHEdtnm7XUvVn4a195Swug/edit . Le site officiel est https://conceptcreatif.com/ ; page spécialisée éditeurs : https://conceptcreatif.com/ia-maisons-edition/ . **Si la proposition de valeur a été modifiée depuis la présente fiche, c'est le contenu canonique le plus récent, et non ce fichier ni l'historique des mails, qui prime.** En cas d'impossibilité de lire cette source ou de doute sur la version, ne pas continuer sur des messages déphasés : signaler le blocage au Product Owner.
+
+### Positionnement exact à traduire en qualification et en courrier
+
+- **Qui nous aidons :** personnes et équipes EN TRAIN D'ADOPTER l'IA, et non toute organisation ayant un site Web ou une adresse publiée. L'adoption peut être rapide et hétérogène; sa maturité et ses difficultés ne doivent pas être présumées sans preuve.
+- **Le besoin à explorer :** les équipes voudraient économiser du temps; elles peuvent perdre du temps à reprendre leurs recherches, prompts, corrections, choix d'outils, contextes ou échanges documentaires. C'est une *hypothèse à explorer*, pas un dysfonctionnement affirmé chez un prospect sans preuve.
+- **Notre compétence DISTINCTIVE :** connaître, adapter puis **ENSEIGNER des méthodes de travail avec l'IA** qui répondent aux circonstances particulières des individus et des équipes. Ce n'est PAS simplement vendre un audit technique, ni implanter systématiquement un logiciel.
+- **Méthodes disponibles quand pertinentes :** prompting et instructions réutilisables; structuration des savoirs et du contexte par organisation dérivée de PARA; mémoire agentique; gestion/coordination opérationnelle avec Scrum allégé. Elles sont des moyens potentiels à choisir après diagnostic, **pas une architecture à déployer chez tous**.
+- **Ce qu'on examine :** SAVOIRS, OPÉRATIONS, OUTILS, mais aussi sécurité et souveraineté des données; ce sont les objets d'un audit adaptable, pas la liste exhaustive d'un produit obligatoire.
+- **Parcours :** rencontre exploratoire 30 minutes → audit proportionné avec périmètre, livrables et prix convenus → feuille de route **des méthodes à transmettre, à qui, pour quelles tâches, dans quel ordre** → formation/accompagnement et éventuels ajustements techniques utiles.
+- **La règle de ciblage ICP :** privilégier une organisation où plusieurs personnes adoptent ou envisagent d'adopter l'IA, où un responsable peut décider de la formation, des méthodes, de l'organisation des savoirs ou des opérations. Ne pas cibler en priorité une organisation qui cherche uniquement un chatbot sur mesure, une refonte de site, un logiciel à installer ou un fournisseur de publicité; aucune preuve d'adoption = hypothèse, à qualifier sans inventer. Pour chaque cible, expliquer concrètement **pourquoi l'enseignement adapté aux pratiques de ses équipes pourrait lui être pertinent**.
+- **La règle du message :** le courriel doit évoquer l'apprentissage de méthodes adaptées et l'accompagnement après audit, pas se limiter à « identifier les pertes de temps et trouver des prestataires ». Ne jamais présenter mémoire agentique + PARA + Scrum comme un ensemble standard obligatoire. Les exemples techniques ne viennent que si pertinents au destinataire; les formulations doivent rester accessibles à un dirigeant non technique.
+
+### Grille de conformité éditoriale avant toute mise en file ou envoi
+1. ICP : le destinataire est-il un décideur/interlocuteur concerné par **l'apprentissage des méthodes d'adoption de l'IA**? Fondement de pertinence sourcé?
+2. Angle : décrit-il une situation possible d'adoption (et non une douleur inventée)?
+3. Offre : **méthodes transmises aux personnes et aux équipes** est-elle explicite?
+4. Audit : SAVOIRS/OPÉRATIONS/OUTILS avant choix de formation/solution?
+5. Parcours : rencontre → audit proportionné → feuille de route → transmission/accompagnement?
+6. Souveraineté/sécurité : prises en compte sans faire peur ni inventer des incidents?
+7. Exclusion : aucune offre Web/PPC/GEO, aucun Win, aucune technologie imposée, aucun Boréal?
+8. LCAP, doublons, refus, identité et désabonnement sont-ils vérifiés séparément?
+
+Si un point échoue, classer **A_QUALIFIER** avant transfert ou corriger le brouillon; ne pas expédier un texte commercial dépassé.
+
+
 ## DONNÉES ET RÔLES
 
 - Product Owner : `AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001`
@@ -44,7 +75,7 @@ Ce PACK est une **adaptation originale en français des principes**, et non l'ex
 
 ## PROMPT 2 — IDENTIFICATION DE CONTACTS À PARTIR DE SOURCES PUBLIQUES (AGENT 1)
 
-> Utilise les profils de PROMPT 1 et la recherche Web publique disponible pour découvrir un LOT BORNÉ de nouvelles organisations. Commence par leurs sites officiels ou répertoires professionnels fiables, puis vérifie l'adresse de contact sur une page publiée par l'organisation ou une base de consentement professionnelle clairement fondée. Pour chaque entreprise réelle, identifier une personne dont les fonctions concernent la direction, la formation, les opérations ou l'adoption de l'IA; indiquer nom, fonction, entreprise, domaine, email EXACT publié (ne jamais le deviner), URL de la preuve, date de vérification, rôle et raison de pertinence.
+> Commence par relire la proposition de valeur canonique, puis utilise les profils de PROMPT 1 et la recherche Web publique disponible pour découvrir un LOT BORNÉ de nouvelles organisations. Commence par leurs sites officiels ou répertoires professionnels fiables, puis vérifie l'adresse de contact sur une page publiée par l'organisation ou une base de consentement professionnelle clairement fondée. Privilégie les organisations dont le contexte public rend PLAUSIBLE un besoin d'apprentissage et d'organisation des méthodes d'adoption de l'IA, sans prétendre que leurs pratiques internes sont défaillantes. Pour chaque entreprise réelle, identifier une personne dont les fonctions concernent la direction, la formation, les opérations ou l'adoption de l'IA; indiquer nom, fonction, entreprise, domaine, email EXACT publié (ne jamais le deviner), URL de la preuve, date de vérification, rôle et raison de pertinence.
 >
 > Déduplique à l'aide de Gmail SENT, historiques/retraits et HubSpot COMPANY/CONTACT, y compris noms de groupe et filiales; compare avec les 89 destinataires du 16 octobre et les refus. Classe sans perte de candidat en « candidat ICP », « à examiner », « hors cible ». Les emails absents restent en recherche, jamais prêts à expédier. Ne contacte personne.
 >
@@ -62,7 +93,7 @@ Ce PACK est une **adaptation originale en français des principes**, et non l'ex
 
 > Ne travaille que sur les lignes N=PRET_ENVOI ET M=ADMISSIBLE déjà sourcées par l'agent 1. Relis sources/rôle/raison de qualification dans la file. Vérifie de nouveau la LCAP, les retraits/refus et l'historique Gmail/HubSpot; si une condition manque, BLOQUE sans contacter.
 >
-> Rédige un courriel en français québécois, bref et personnalisé à la fonction. Sujet canonique si pertinent : « L’IA devait vous faire gagner du temps. Pourquoi faut-il recommencer ? ». Parle du problème possible de travail à refaire (recherche, prompts, réponses, outils), sans prétendre connaître la situation interne. Présente un audit proportionné des pratiques IA, la première conversation exploratoire de 30 minutes, puis des méthodes/solutions choisies après diagnostic. Première accroche liée à la fonction, une question centrale, pas d'exagération, pas de référence à Boréal. Site https://conceptcreatif.com/ et pour éditeurs https://conceptcreatif.com/ia-maisons-edition/ ; RDV https://calendar.app.google/7JdrkaHN8RLbRHxz5 . Identifie clairement Concept Créatif, courriel et numéro professionnel, adresse postale autorisée extraite exclusivement de la configuration privée de l'agent, possibilité de retrait par réponse « retrait ». Ne place pas l'adresse personnelle dans un dépôt public.
+> Relis obligatoirement la proposition de valeur canonique mise à jour juste avant la rédaction. Rédige un courriel en français québécois, bref et personnalisé à la fonction. Sujet canonique si pertinent : « L’IA devait vous faire gagner du temps. Pourquoi faut-il recommencer ? ». Parle du problème possible de travail à refaire (recherche, prompts, réponses, outils), sans prétendre connaître la situation interne. Présente Concept Créatif comme expert des MÉTHODES de travail avec l'IA, qui les adapte et les ENSEIGNE aux personnes et aux équipes selon leurs circonstances; la rencontre exploratoire de 30 minutes prépare, si utile, un audit proportionné des SAVOIRS, OPÉRATIONS et OUTILS, puis une feuille de route des apprentissages et un accompagnement. Mentionne l'amélioration de l'efficacité, la sécurité et la souveraineté des données lorsque le contexte le justifie, sans promettre de gains chiffrés. Première accroche liée à la fonction, une question centrale, pas d'exagération, pas de référence à Boréal. Site https://conceptcreatif.com/ et pour éditeurs https://conceptcreatif.com/ia-maisons-edition/ ; RDV https://calendar.app.google/7JdrkaHN8RLbRHxz5 . Identifie clairement Concept Créatif, courriel et numéro professionnel, adresse postale autorisée extraite exclusivement de la configuration privée de l'agent, possibilité de retrait par réponse « retrait ». Ne place pas l'adresse personnelle dans un dépôt public.
 >
 > Contrôle qualité : orthographe, cohérence entre rôle et message, destinataire unique, signature, objet, retrait, consentement, pas de doublon. La rédaction n'est PAS une preuve d'envoi.
 
