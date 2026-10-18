@@ -39,3 +39,7 @@ Un contact ayant répondu REFUS ou `retrait`, entreprise déjà sollicitée, gro
 
 ## Test d'acceptation
 Ne déclarer cet agent en PRODUCTION VALIDÉE qu'après un passage vérifié : note OPEN + preuve de consentement dans CRM → envoi autorisé → message SENT Gmail → statut et preuve CRM → compteur backlog. Si file vide, états de recherche incohérents ou autorisation manquante, état `STRUCTURE_INSTALLEE_TEST_LIVE_NON_REALISE`, et aucune fausse déclaration d'envoi.
+
+## RUNTIME DE TRANSMISSION — FILE GOOGLE SHEETS PRIVÉE
+
+**Priorité sur les paragraphes décrivant la note HubSpot comme seule source de la file :** la file transactionnelle réelle est `REGISTRE-MAITRE-CONTACTS-001`, onglet `FILE_ACQUISITION_IA`, https://docs.google.com/spreadsheets/d/1R7YImZfU5mPYNWhXUBZDlgOkTTnnhyloXAklXfB2oxk/edit#gid=1032913605. Consommer seulement les lignes `Statut de la file=PRET_ENVOI` ET `Consentement contrôlé=ADMISSIBLE` avec URL de source/date, fonction, pertinence et vérification Gmail complètes. Recontrôler HubSpot (si disponible), historiques Gmail et droits LCAP, marquer dans la file `EN_COURS` avant l'envoi, puis `ENVOYE` et écrire le message ID/date si Gmail SENT est confirmé. En cas d'échec, mettre `BLOQUE` et la cause en colonne S; ne jamais compter comme envoyé. Ne jamais prospecter de nouvelles adresses depuis ce rôle. HubSpot reste CRM de contacts/conversion, l'écriture des statuts CRM se fait si les droits et confirmations la permettent. La file Sheets n'est pas un backlog parallèle.
