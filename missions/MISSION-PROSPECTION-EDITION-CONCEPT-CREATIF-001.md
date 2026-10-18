@@ -3,12 +3,12 @@ mission_id: MISSION-PROSPECTION-EDITION-CONCEPT-CREATIF-001
 project: Concept Créatif
 product_owner: AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001
 agent: AGENT-PROSPECTION-CONCEPT-CREATIF-001
-state: PREMIER_CONTROLE_REALISE_PREPARATION_SUIVI
+state: ACQUISITION_CONTINUE_AUTORISEE
 priority: P1
 date: 2026-10-16
 ---
 
-# Mission — Prospection édition, vérification et qualification
+# Mission — Acquisition continue Concept Créatif (éditeurs et PME)
 
 ## But
 Transformer le bassin existant de maisons d'édition en cinq dossiers d'occasions qualifiées, sans nouvelles sollicitations mécaniques. La valeur à explorer est l'audit des usages réels de l'IA et une feuille de route décidée après rencontre exploratoire, non une technologie vendue d'avance.
@@ -59,3 +59,15 @@ Cinq fiches réconciliées, zéro entreprise doublonnée par création, zéro co
 - **Orchestration existante :** automatisation ChatGPT `6ad1fc17a55081918bb39b16d745a832` (« Campagne éditeurs — suivi des réponses »), sans envoi sortant de prospection. Aucun nouveau lot froid ni relance des 89 adresses sans nouvel ordre de Patrick.
 - **Parcours commercial :** https://conceptcreatif.com/ia-maisons-edition/ → https://calendar.app.google/7JdrkaHN8RLbRHxz5 → rencontre → audit proportionné tarifé → recommandations puis mise en œuvre ou coordination. L'argumentaire commercial ne doit plus évoquer Boréal : rechercher les pertes de temps dues aux prompts répétés, recherches à refaire, choix d'outils et méthodes peu structurées.
 - **Règle de clôture de la nouvelle phase :** réponses, rendez-vous et mandats documentés par preuves réelles, sans inventer de conversions, sans doublon, sans nouvelle sollicitation automatique. Le Product Owner décide ensuite de la prochaine opération commerciale.
+
+## MANDAT CANONIQUE — 18 OCTOBRE 2026 — MISSION D'ACQUISITION CONTINUE 1 000+
+
+**ÉTAT ACTIF : ACQUISITION_CONTINUE_AUTORISÉE**. Par instruction explicite du propriétaire le 18 octobre, le Product Owner Concept Créatif retire la restriction « ne plus envoyer de nouveaux courriels » après 85/89 éditeurs. Il étend la mission édition à la prospection permanente de nouvelles maisons d'édition FRANCOPHONES québécoises, puis de PME et d'organisations francophones du Québec, afin d'obtenir des clients pour des audits et des MÉTHODES adaptées à l'adoption de l'IA. La première cohorte (89 SENT à 89 adresses le 16 octobre) reste fermée : on ne la recontacte pas mécaniquement.
+
+**Product Goal :** créer en continu un pipeline commercial capable de générer des rendez-vous puis des mandats d'audit rémunérés et de déploiement pragmatique de méthodes. **Jalon de volume : 1 000 courriels commerciaux effectivement envoyés (SENT), et continuer après**. Hypothèse « il faut 1 000 pour une réponse » non mesurée; le résultat se vérifie avec de vraies réponses et des contrats. Rythme visé : 50 à 100 envois par JOUR au TOTAL lorsque juridiquement possibles, plafonné à 100/jour pour les cycles ChatGPT ensemble, sans jamais forcer le quota.
+
+**Chaîne d'exécution :** Product Owner `AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001` → agent `AGENT-PROSPECTION-CONCEPT-CREATIF-001` → tâche ChatGPT unique **« Acquisition continue — Concept Créatif » `6ad269283a9481919b0e47e4f92299de`**, RÉACTIVÉE le 18 octobre, 8 h / 11 h / 14 h / 17 h Toronto → Gmail SENT (preuve) et HubSpot (contacts/organisations sans doublons) → backlog maître https://docs.google.com/document/d/1e3PSJKvAgkz6-9MyRt8Jm15BkVtxoXjILj1DUQmsiaw/edit , item `CC-ACQ-CONTINUE-1000-20261018`. Carte Trello existante https://trello.com/c/yenApjco = miroir, jamais source concurrente. Surveillance Gmail unifiée existante (`6acfbcbedde08191b30b4a62a5908300`) = UNIQUE suivi des réponses, rebonds et retraits, à conserver.
+
+**Définition d'un envoi admissible :** contact professionnel et rôle vérifiés, entreprise/groupe réellement nouveau, pas de refus, pas de doublon ni de recontact de la cohorte des 89; base de consentement LCAP documentée individuellement, pertinence au destinataire, aucune restriction de publicité de l'adresse, conformité de la signature avec adresse d'expéditeur et procédure de retrait; personnalisation; vérification Gmail SENT après émission. En cas de blocage, ne pas contourner, ne pas compter, enregistrer la cause et prospecter d'autres cibles. Ne jamais confondre les envois et les ventes.
+
+**Nouvelle définition de terminé :** la prospection elle-même est une activité continue de la casquette Entrepreneur et ne se ferme plus après un seuil; chaque cohorte est clôturable avec preuves et suivis. Si la mission est devenue obsolète uniquement par décision explicite du propriétaire, la clôturer; autrement avancer aux prochaines cibles admissibles et aux contrats.
