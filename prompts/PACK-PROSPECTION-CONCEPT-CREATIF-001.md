@@ -1,3 +1,9 @@
+## DÉCISION PRIORITAIRE — 19 OCTOBRE 2026 — EFFECTIF = PRIORITÉ, PAS EXCLUSION
+
+**Instruction la plus récente du Product Owner : ABROGER tous les seuils éliminatoires de 25 ou 50 employés.** La taille de l'entreprise est exclusivement un facteur de **priorité commerciale** : chercher surtout les petites structures où les décideurs sont accessibles, mais ne refuser aucune entreprise **uniquement en raison de sa taille**, même 250, 1 000 ou 10 000 employés. Priorité indicative : 1–10 très haute, 11–25 haute, 26–50 bonne, 51–250 secondaire, très grandes faible sauf occasion bien documentée. L'intuition « probabilité approximative inverse du nombre d'employés » est une **heuristique de prospection fournie par le propriétaire, non un taux empirique démontré**. Noter un effectif sourcé lorsque connu, sans bloquer une candidature faute de dénombrement exact.
+
+**Pour les CONTACTS déjà créés dans HubSpot** : révoquer les anciennes conclusions de NON ADMISSIBLE reposant exclusivement sur des seuils 25/50; conserver les fiches et l'historique, requalifier les notes une à une, ne PAS les marquer PRÊT À ENVOYER tant que les autres portes (source officielle du courriel nominatif, rôle, LCAP, Gmail SENT, doublons, retraits et refus) ne sont pas toutes vérifiées. Ne pas recréer les contacts. Les anciens textes « exclure si plus de 25 » ou « exclure si plus de 50 », présents dans les instructions ou notes historiques, sont **supplantés par ce chapitre**.
+
 ---
 pack_id: PACK-PROSPECTION-CONCEPT-CREATIF-001
 owner: AGENT-PRODUCT-OWNER-CONCEPT-CREATIF-001
