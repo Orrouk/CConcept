@@ -1,3 +1,16 @@
+## MISE À JOUR CANONIQUE — 21 OCTOBRE 2026 — RECLASSEMENT MICROENTREPRISES ET RETOUR D'EXPÉRIENCE
+
+Instruction propriétaire : **2–10 employés au premier rang**, en privilégiant le décideur opérationnel directement joignable et un premier audit IA de portée courte; 11–25 ensuite. Les notes originales /99 sectorielles restent un historique sans valeur de probabilité d'achat. Vérifier taille de l'entité décisionnaire, source, vraie fonction du contact, structure de groupe, équipe, besoin particulier démontré et pertinence de la discussion; ne pas inventer de score si ces éléments manquent.
+
+**CRM opérationnel canonique : fichiers Markdown dans la voûte privée** (pas HubSpot ni Sheet). Google Sheet 309 historique, HubSpot provenance des coordonnées/échanges, `contacts.json` Android catalogue dérivé. Suivi Gmail réel (SENT, réponses, refus, rebonds, retraits) prime sur statut CRM NEW; ne pas relancer un contact au seul motif d'un nouveau classement. Pas de données nominatives dans ce dépôt GitHub public.
+
+**Lecture RETEX en préambule de toute mission :** https://drive.google.com/file/d/1f58TQ8YO-ul5GJAbsA0U3HsJFHG82VYa/view
+**PO commercial et contrôle :** https://drive.google.com/file/d/1Sj_x8x27pdImAjUZS574LfeP7E1ZJhzQ/view
+**Journal erreurs :** https://drive.google.com/file/d/1c1f_y266qYoeR9Phtj01Ax0VekH08NuH/view
+**Responsabilités :** le PO Concept Créatif décide offre et cible; le PO prospection enrichit les MD et profils des personnes; ZAPS développe l'APK CCC. Erreur -> correction documentée -> mise à jour des PO concernés -> test -> clôture; pas de « synchronisation » supposée.
+
+---
+
 ## DÉCISION PRIORITAIRE — 19 OCTOBRE 2026 — CRM MARKDOWN DANS LA VOÛTE PRIVÉE GOOGLE DRIVE
 
 **Nouvelle instruction du propriétaire : le CRM canonique devient un système de fiches Markdown `.md` hébergées dans la voûte privée Google Drive Concept Créatif. HubSpot devient une source HISTORIQUE en lecture et une destination d'import éventuelle, non obligatoire.** Les anciennes instructions exigeant l'écriture CRM HubSpot à chaque recherche sont abrogées. Le dépôt GitHub Orrouk/CConcept est PUBLIC : n'y inscrire aucune coordonnée de prospect ni historique nominatif.
