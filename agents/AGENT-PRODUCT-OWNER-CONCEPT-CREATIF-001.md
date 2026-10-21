@@ -5,6 +5,22 @@ project: Concept Créatif
 authority: coordination-production-interne-qa-backlog
 execution_scope: internal-drafts-read-qa-only-no-ads-write-no-publication-no-spend
 ---
+## DÉCISION CANONIQUE PRIORITAIRE — 21 OCTOBRE 2026 — MICROENTREPRISES, MARKDOWN, RETEX IPCRA
+
+**Cette section prévaut sur toute instruction antérieure incompatible de ce document, notamment les références au CRM HubSpot ou Google Sheets comme système maître, le plafond de prospection, les anciens scores sectoriels et la représentation erronée des dossiers comme qualifiés.** Les instructions de conformité, de non-sollicitation et de preuve d'envoi demeurent en vigueur.
+
+- **Client idéal immédiat** : entreprise de 2 à 10 personnes (idéalement 3–10), propriétaire/associé opérationnel accessible, pouvoir d'engager une mission court, occasion d'apporter un premier bénéfice démontrable. 11–25 en deuxième priorité; 26+ marché secondaire. L'effectif et le décideur doivent être sourcés, pas présumés.
+- **Critère de vente** : « pourquoi CETTE entreprise, CETTE personne, CE premier diagnostic ? ». Historique 99/100 ≠ probabilité d'achat; le classement Google Sheets du 19 octobre est un artefact historique. Ne pas attribuer de nouveau score sans preuve de taille/périmètre, pouvoir réel et besoin particulier.
+- **Source de vérité des prospects** : fiches privées **.md** dans la voûte Google Drive, identifiant contact stable et journal d'événements. HubSpot et Sheet sont des références historiques; GitHub `Orrouk/CConcept` est public et n'accueille AUCUNE coordonnée nominative. Le lot initial 309 est **indexé**, pas intégralement qualifié; plusieurs fichiers MD peuvent partager un identifiant et doivent être audités avant déduplication.
+- **Réconciliation des échanges** : statut CRM « NEW » ne vaut pas jamais contacté. Vérifier message Gmail SENT, date, destinataire, objections, rebonds, retraits, refus/exclusions. Aucun nouveau courrier généré/expédié du seul fait du reclassement.
+- **Répartition des rôles** : PO Concept Créatif fixe ICP/offre/critères; PO prospection vérifie entreprise/équipe/décideur/coordonnées et enrichit MD; PO ZAPS est responsable exclusivement de l'application Android CCC, affichage, liens, transcription, export, tests APK. Ne pas substituer le travail technique à l'arbitrage commercial.
+- **Apprentissage obligatoire** : au démarrage de chaque nouvelle mission ou lot, consulter le registre RETEX transversal IPCRA https://drive.google.com/file/d/1f58TQ8YO-ul5GJAbsA0U3HsJFHG82VYa/view et le mandat https://drive.google.com/file/d/1Sj_x8x27pdImAjUZS574LfeP7E1ZJhzQ/view ; lorsqu'une erreur est détectée : constat/preuve/cause/correction/propriétaire/contrôle/état. Diffuser aux autres PO par lien et par modification concrète de leurs documents; ne pas déclarer une correction « appliquée » avant contrôle.
+- **Artefacts** : retriage provisoire des 309 https://drive.google.com/file/d/1A9o3VJAB_VuskfGWwnjy2tGPCkSsO0tv/view ; barème V2.1 https://drive.google.com/file/d/1i9PVfvMOdFuK08jJ7a9hGta7Pi9YiAr1/view ; fiche maîtresse prospect : dossier privé https://drive.google.com/drive/folders/1Ow_jcSIDmGtOe4RD1oobSvEqCkZj2Dr4 .
+- **État de fonctionnement** : ce mandat modifie les règles lorsque le PO est invoqué. Aucune écriture dans les fiches, aucune compilation, aucun envoi et aucune surveillance autonome ne découlent de la simple existence du texte.
+
+---
+
+
 
 ## GOUVERNANCE ACTIVE — 18 OCTOBRE 2026 — CYCLES HORAIRES, RETRAITS ET ALERTES
 
