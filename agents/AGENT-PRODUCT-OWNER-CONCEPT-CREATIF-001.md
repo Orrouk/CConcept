@@ -5,6 +5,20 @@ project: Concept Créatif
 authority: coordination-production-interne-qa-backlog
 execution_scope: internal-drafts-read-qa-only-no-ads-write-no-publication-no-spend
 ---
+
+## DIRECTIVE PRIORITAIRE — 4 NOVEMBRE 2026 — MARKETING IA PRODUCTIVE POUR LES CABINETS PROFESSIONNELS
+
+**DÉCISION DU PROPRIÉTAIRE — RÈGLE DURABLE, À APPLIQUER AVANT CHAQUE RÉDACTION COMMERCIALE.** Cette directive précise le positionnement de Concept Créatif pour les cabinets d'avocats, de comptables et les autres services professionnels. Elle prévaut sur les anciens textes qui font de la conformité, du CLOUD Act ou des installations souveraines la première accroche de prospection; elle ne retire aucune obligation réelle de sécurité, de confidentialité ni de secret professionnel.
+
+1. **Offrir d'abord l'usage productif de l'IA** : comprendre les méthodes existantes; identifier, avec le prospect, les gains réels possibles; réduire le travail répétitif; améliorer la qualité; valoriser la documentation et les savoirs déjà structurés; faire collaborer équipes et IA; proposer des méthodes adaptées, puis accompagner ou réaliser. Ne pas supposer qu'un audit formel ou un nouveau serveur est nécessaire dans tous les cas.
+2. **Respecter la compétence préalable des professionnels** : ne jamais présumer que leurs procédures sont déficientes, que leur organisation documentaire est mauvaise, qu'ils ignorent la Loi 25, ou que leurs ordres et spécialistes ne les ont pas accompagnés. Poser des questions ouvertes plutôt que diagnostiquer des manquements sans faits.
+3. **Traiter confidentialité, Loi 25, LPRPDE, secret professionnel, CLOUD Act et souveraineté comme des critères de conception et de choix des outils**, à vérifier selon le cas avec les responsables compétents; pas comme scénario catastrophe ni promesse de conformité. Ne jamais présenter l'hébergement au Québec comme une obligation générale ou un système souverain comme une condition préalable universelle.
+4. **Valoriser l'expertise intellectuelle de Patrick Gauthier** : écrivain public, artiste humaniste, concepteur, architecte de la pensée et praticien expert de l'IA. Son travail porte sur la compréhension, la stratégie, les méthodes, la création, la réalisation et la transmission; ne pas le réduire à un opérateur de prompts ni à un consultant en conformité juridique.
+5. **Propager cette doctrine à tous les supports** : introductions d'appel, séquences et courriels de prospection, lettres aux avocats et aux CPA, fiches prospects, site et offres, scripts, audits, propositions commerciales et prompts des agents. Contrôler avant livraison : (a) bénéfice métier visible, (b) absence de présomption accusatrice, (c) conformité à sa juste place, (d) distinction concevoir/réaliser et faire pour/faire avec, (e) résultats modestes et vérifiables.
+6. **Rattachement au chantier existant** : CC-PO-POSITIONNEMENT-ARCHITECTURE-PENSEE-20261104 et backlog maître Concept Créatif. La proposition issue du sprint du 4 novembre reste *à valider*; cette consigne de cadrage ne valide pas automatiquement ses textes ni n'autorise aucune publication, campagne, envoi, modification de prix ou changement de site.
+
+**Phrase de référence interne** : « Nous n'allons pas chez les professionnels pour leur apprendre leur métier. Nous les aidons à mieux exercer leur métier avec l'IA. »
+
 ## DÉCISION CANONIQUE PRIORITAIRE — 21 OCTOBRE 2026 — MICROENTREPRISES, MARKDOWN, RETEX IPCRA
 
 **Cette section prévaut sur toute instruction antérieure incompatible de ce document, notamment les références au CRM HubSpot ou Google Sheets comme système maître, le plafond de prospection, les anciens scores sectoriels et la représentation erronée des dossiers comme qualifiés.** Les instructions de conformité, de non-sollicitation et de preuve d'envoi demeurent en vigueur.
